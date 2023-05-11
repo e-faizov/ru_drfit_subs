@@ -603,199 +603,199 @@ YouTube и Facebook, что, по моему
 
 152
 00:06:28,199 --> 00:06:33,180
-your skills so you have to follow the
+Так, вы следуете этим шагам
 
 153
 00:06:30,000 --> 00:06:36,600
-steps so building that sounds simple
+и первый шаг, сборка, звучит просто
 
 154
 00:06:33,180 --> 00:06:37,919
-right you just download the instruction
+вы просто должны скачать 
 
 155
 00:06:36,600 --> 00:06:40,139
-manual
+инструкцию
 
 156
 00:06:37,919 --> 00:06:42,900
-you read through it and you follow it
+прочитать ее и следовать
 
 157
 00:06:40,139 --> 00:06:45,240
-step by step which part goes where
+шаг за шагом, установив детали в нужное место
 
 158
 00:06:42,900 --> 00:06:47,400
-and you're done with it this is not
+и вы закончили, но это не значит
 
 159
 00:06:45,240 --> 00:06:49,259
-necessary means you build your chassis
+что вы собираете свою шасси
 
 160
 00:06:47,400 --> 00:06:53,220
-there's a big difference between a Lego
+очень большая разница между Lego
 
 161
 00:06:49,259 --> 00:06:55,740
-and an RC drift car for example
+и дрифт шасси, для примера
 
 162
 00:06:53,220 --> 00:06:57,780
-let's talk about this arm here
+давайте обсудим предение рычаги
 
 163
 00:06:55,740 --> 00:07:00,600
-for example if not discount necessary
+для примера, не только это шасси,
 
 164
 00:06:57,780 --> 00:07:02,580
-any car if the manual says put the arm
+любая шасси, если по инструкции нужно установить рычаги
 
 165
 00:07:00,600 --> 00:07:04,500
-in this position and place two or three
+на место и добавить две или три шайбы
 
 166
 00:07:02,580 --> 00:07:05,940
-shims up front for example if you don't
+две или три шайбы для примера, если вы не знаете
 
 167
 00:07:04,500 --> 00:07:07,979
-know what the shim is it's a small
+что такое шайбы, это маленькие
 
 168
 00:07:05,940 --> 00:07:09,960
-plastic spacers that you have to place
+пластиковые проставки которыми вы можете
 
 169
 00:07:07,979 --> 00:07:12,300
-to move the arm in a certain position
+зафиксировать рычаги в определеной позиции
 
 170
 00:07:09,960 --> 00:07:15,180
-forward and back or backward to control
+для контроля вашего кастера
 
 171
 00:07:12,300 --> 00:07:19,380
-your Caster anyway for example let's say
+любое, для примера, пусть будет
 
 172
 00:07:15,180 --> 00:07:21,479
-the the manual set two two shims and you
+две шайбы по инструкции и вы ставите две шайбы
 
 173
 00:07:19,380 --> 00:07:25,039
-place the two Shams and then your arm
+ставите две шайбы и дальше, рычаг 
 
 174
 00:07:21,479 --> 00:07:25,039
-acts like this see
+ведет себя примерно так
 
 175
 00:07:27,120 --> 00:07:32,280
-this is bad this is too much play in the
+это плохо, люфт рычага слишком большой
 
 176
 00:07:30,300 --> 00:07:35,460
-arm and the reason for that even the
+и причина этого
 
 177
 00:07:32,280 --> 00:07:38,639
-manual sit so because the the quality
+такие маленькие пластиковые детали
 
 178
 00:07:35,460 --> 00:07:42,960
-control for this small plastic injection
+сложно изготовить с нужной точностью
 
 179
 00:07:38,639 --> 00:07:44,300
-mold part is not 100 accurate my arm
+мои рычаги
 
 180
 00:07:42,960 --> 00:07:48,060
-might be
+могут быть
 
 181
 00:07:44,300 --> 00:07:51,479
-0.05 thinner than your arm so in my case
+на 0.05мм тоньше чем ваши, в моем варианте
 
 182
 00:07:48,060 --> 00:07:54,300
-I have to place one extra shim here to
+Я добавлю еще одну шайбу сюда
 
 183
 00:07:51,479 --> 00:07:57,060
-control or to eliminate display while at
+что бы убрать люфт, в тоже время
 
 184
 00:07:54,300 --> 00:07:59,880
-the same time maintaining full up and
+сохраняя свободное движение рычага вверх
 
 185
 00:07:57,060 --> 00:08:01,319
-low pre-motion so these things you have
+и в низ, так что вы должны
 
 186
 00:07:59,880 --> 00:08:02,639
-to consider this is the difference
+это учитывать, это и есть разница
 
 187
 00:08:01,319 --> 00:08:04,620
-between
+между
 
 188
 00:08:02,639 --> 00:08:07,139
-putting together a chassis and building
+собрать детали вместе и построить шасси
 
 189
 00:08:04,620 --> 00:08:11,160
-a chassis and this goes all over the
+и это касается всей шасси
 
 190
 00:08:07,139 --> 00:08:14,340
-chassis all parts should fit nicely in
+все части должны вставать хорошо
 
 191
 00:08:11,160 --> 00:08:15,300
-the sense they move freely but with zero
+и двигаться свободно, но без люфтов
 
 192
 00:08:14,340 --> 00:08:17,819
-play
+люфт
 
 193
 00:08:15,300 --> 00:08:19,800
-is the enemy of drifting keep in mind
+это враг дрифта, держите это в уме
 
 194
 00:08:17,819 --> 00:08:22,259
-always play is the enemy with drifting
+люфт это враг дрифта
 
 195
 00:08:19,800 --> 00:08:24,180
-if you have any play in your
+если у вас есть люфт в
 
 196
 00:08:22,259 --> 00:08:27,300
-steering
+рулевой
 
 197
 00:08:24,180 --> 00:08:30,419
-or in your arms or in your wheels
+или в рычагах или колесах
 
 198
 00:08:27,300 --> 00:08:32,940
-this will drive your gyro crazy your car
+это будет сводить с ума гироскоп
 
 199
 00:08:30,419 --> 00:08:35,339
-will be twerking all over the place so
+шасси будет болтать все время
 
 200
 00:08:32,940 --> 00:08:37,200
-this thing to keep in mind now there are
+помните это всегда now there are
 
 201
 00:08:35,339 --> 00:08:39,719
