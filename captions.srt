@@ -1,606 +1,605 @@
-1
-00:00:02,879 --> 00:00:05,840
-foreign
-
 2
 00:00:07,200 --> 00:00:11,400
-good morning everyone this is Muhammad
+доброе утро всем, это Muhammad Ali
 
 3
 00:00:09,599 --> 00:00:12,900
-Ali back with another video and in
+с новым видео и
 
 4
 00:00:11,400 --> 00:00:15,120
-today's video I want to share with you
+в этом видео Я хочу поделиться с вами
 
 5
 00:00:12,900 --> 00:00:18,000
-what I've learned so far when it comes
+как правильно настроить шасси
 
 6
 00:00:15,120 --> 00:00:19,740
-to getting your chassis to act right
+с момента как вы его получили
 
 7
 00:00:18,000 --> 00:00:22,320
-I'll try to make this as simple as
+Я поробую сделать это настолько просто
 
 8
 00:00:19,740 --> 00:00:23,820
-possible for new Drifters especially and
+насколько возможно, особенно для новичков
 
 9
 00:00:22,320 --> 00:00:25,859
-hopefully help you with your current
+так же надеюсь это поможет с вашими
 
 10
 00:00:23,820 --> 00:00:27,900
-setup so let's start with the scenario
+текущими настройками
+так давайте начнем
 
 11
 00:00:25,859 --> 00:00:30,359
-that we are all familiar with we just
+многие знакомы с ситуацией когда
 
 12
 00:00:27,900 --> 00:00:32,279
-received your brand new chassis
+вы получили вашу новую шасси
 
 13
 00:00:30,359 --> 00:00:34,440
-which is most likely your first chance
+которая, скорее всего, у вас первая
 
 14
 00:00:32,279 --> 00:00:36,899
-if you're a beginner of course and it
+если вы конечно начинающий и вы
 
 15
 00:00:34,440 --> 00:00:39,120
-comes like in a thousand pieces right so
+получаете тысячи кусочков, которые
 
 16
 00:00:36,899 --> 00:00:42,360
-you put it together and you drive it for
+собираете вместе и пытаетесь катать
 
 17
 00:00:39,120 --> 00:00:46,140
-the first time and then reality hits you
+первый раз и реальность догоняет вас
 
 18
 00:00:42,360 --> 00:00:49,800
-it's no way near what you expected
+это далеко не то, что вы ожидали
 
 19
 00:00:46,140 --> 00:00:51,420
-right because let's be honest you buy a
+будьте честны с собой, вы купили
 
 20
 00:00:49,800 --> 00:00:53,760
-chassis based on what you've seen on
+шасси по видео с 
 
 21
 00:00:51,420 --> 00:00:56,340
-YouTube and Facebook which is which is
+YouTube и Facebook, что, по моему
 
 22
 00:00:53,760 --> 00:00:57,600
-bad things to do in my opinion this is
+мнению, плохая идея
 
 23
 00:00:56,340 --> 00:00:59,879
-phase one
+это фаза один
 
 24
 00:00:57,600 --> 00:01:01,379
-so what's the second phase I call it the
+вторая фаза, Я называю ее
 
 25
 00:00:59,879 --> 00:01:03,680
-grieving phase
+фазой скорби
 
 26
 00:01:01,379 --> 00:01:06,900
-so at this point you are disappointed
+в этот момент вы расстроены
 
 27
 00:01:03,680 --> 00:01:08,580
-you're angry you regret the 200 plus
+Вы злитесь и жалеете, что потратили
 
 28
 00:01:06,900 --> 00:01:09,780
-dollars you spend with this on this
+200+ долларов на
 
 29
 00:01:08,580 --> 00:01:11,580
-piece of garbage
+ЭТОТ кусок мусора
 
 30
 00:01:09,780 --> 00:01:13,799
-and there's nothing wrong with that we
+и это вполне нормальная ситуация
 
 31
 00:01:11,580 --> 00:01:15,900
-all started like this
+все начинают примерно так же
 
 32
 00:01:13,799 --> 00:01:17,880
-there's something you need to know in
+есть кое-что, что вам нужно знать
 
 33
 00:01:15,900 --> 00:01:19,860
-order to get your car to just try it
+для получения удовольствия от свое шасси
 
 34
 00:01:17,880 --> 00:01:22,500
-there's a lot of steps that you have to
+надо пройти много шагов 
 
 35
 00:01:19,860 --> 00:01:25,680
-follow which most newcomers don't know
+о которых новички не знают
 
 36
 00:01:22,500 --> 00:01:27,840
-because the manual does not say so so to
+потому что в инструкции этого нету
 
 37
 00:01:25,680 --> 00:01:30,960
-prove my point I'll share my personal
+и Я докажу это, поделившись своим опытом
 
 38
 00:01:27,840 --> 00:01:33,780
-experience and hopefully it will boost
+и надеюсь это повысит
 
 39
 00:01:30,960 --> 00:01:37,200
-your confidence to keep at it with your
+Вашу мотивацию продолжить с шасси
 
 40
-00:01:33,780 --> 00:01:41,340
-drifting car I started drifting
+00:01:33,780 --> 00:01:41,34
+Я начал дрифтить
 
 41
 00:01:37,200 --> 00:01:43,439
-in the September 2019 my first Chasse
+в сентябре 2019 года, моей первой шасси
 
 42
 00:01:41,340 --> 00:01:46,560
-was DRZ one
+была DRZ 1
 
 43
 00:01:43,439 --> 00:01:50,220
-and before that I used to competitively
+и до этого Я участвовал в соревнованиях
 
 44
 00:01:46,560 --> 00:01:53,700
-raise 1 8 scale and 1 10 scale buggies
+багги в масштабах 1/8 и 1/10
 
 45
 00:01:50,220 --> 00:01:57,240
-and electric and Nitro and after that I
+электро и нитро и после этого Я
 
 46
 00:01:53,700 --> 00:01:58,200
-raced drones for almost four years so I
+гонял на дронах почти 4 года
 
 47
 00:01:57,240 --> 00:01:59,700
-have
+так что Я имею опыт
 
 48
 00:01:58,200 --> 00:02:02,759
-quite experienced when it comes to
+когда дело доходит
 
 49
 00:01:59,700 --> 00:02:06,119
-building and and tuning so when I picked
+до сборки и тюнинга
 
 50
 00:02:02,759 --> 00:02:09,000
-the trz it was my first ever micro mini
+когда Я получил DRZ, это была моя первая 
 
 51
 00:02:06,119 --> 00:02:11,580
-drift chassis I was excited I put it I
+мини дрифт шасси
 
 52
 00:02:09,000 --> 00:02:14,099
-put it together and for the first time I
+я собрал ее и когда попробовал 
 
 53
 00:02:11,580 --> 00:02:16,260
-tried it out it looked like a
+впервый раз, я смотрелся как 
 
 54
 00:02:14,099 --> 00:02:20,400
-five-year-old was holding the radio
+5ти летний пацан с пультом
 
 55
 00:02:16,260 --> 00:02:22,020
-seriously so this is normal because even
+серьёзно, так что это нормально, потому что
 
 56
 00:02:20,400 --> 00:02:24,420
-though I have experience
+даже имея опыт сборки и
 
 57
 00:02:22,020 --> 00:02:28,560
-with building and tuning at that point
+настойки, в этот момент
 
 58
 00:02:24,420 --> 00:02:29,940
-my experience was to build so as not to
+мой опыт сборки был
 
 59
 00:02:28,560 --> 00:02:33,900
-lose traction
+не терять сцепление с дорогой
 
 60
 00:02:29,940 --> 00:02:36,540
-see in a race if you go sideway or if
+в гонках, если вы скользите боком или 
 
 61
 00:02:33,900 --> 00:02:38,520
-you lose traction you lose time
+теряете сцепление, вы теряете время
 
 62
 00:02:36,540 --> 00:02:40,560
-and if you lose time you'll lose the
+и если вы теряете время
 
 63
 00:02:38,520 --> 00:02:45,660
-race keep in mind at that point of time
+вы проигрываете гонку
 
 64
 00:02:40,560 --> 00:02:49,200
-I rebuilt my drz1 almost 16 16 yes
+Я пересобирал мою DRZ 16 раз
 
 65
 00:02:45,660 --> 00:02:51,900
-exactly 16 times just to get it to act
+ровно 16 раз, что бы она вела себя
 
 66
 00:02:49,200 --> 00:02:53,700
-right because in my head I was still
+как надо, потому что в голове
 
 67
 00:02:51,900 --> 00:02:56,760
-caught up in this bubble that I have
+я все думал как
 
 68
 00:02:53,700 --> 00:02:59,459
-experienced I know how to race and most
+участвовать в гонках
 
 69
 00:02:56,760 --> 00:03:01,860
-probably the problem is the car so I
+и думал, что проблема в шасси, так что
 
 70
 00:02:59,459 --> 00:03:04,260
-watch a lot of YouTube videos I watch I
+Я посмотрел много видео и прочитал
 
 71
 00:03:01,860 --> 00:03:07,379
-read a lot of reviews on Facebook
+много обзоров
 
 72
 00:03:04,260 --> 00:03:12,360
-at the end I got it right all parts all
+и в конце Я собрал все части правильно
 
 73
 00:03:07,379 --> 00:03:14,040
-arms they were fitted freely with no
+рычаги двигались свободно
 
 74
 00:03:12,360 --> 00:03:16,680
-play Zero play which is the way it
+без намека на люфт
 
 75
 00:03:14,040 --> 00:03:19,260
-should be and I kept at it trying every
+как и должно быть и Я пробовал
 
 76
 00:03:16,680 --> 00:03:20,400
-day and still I was progressing but not
+каждый день и был прогресс
 
 77
 00:03:19,260 --> 00:03:23,819
-as fast
+но не так быстро
 
 78
 00:03:20,400 --> 00:03:26,400
-or as impressive as I've seen on the net
+или впечатляюще как я видел
 
 79
 00:03:23,819 --> 00:03:30,000
-on the YouTube so I called up my buddy
+на YouTube, так что я позвал своего приятеля
 
 80
 00:03:26,400 --> 00:03:31,260
-because I thought to myself maybe only
+потому что я подумал,
 
 81
 00:03:30,000 --> 00:03:33,659
-maybe
+может проблема не в машине,
 
 82
 00:03:31,260 --> 00:03:35,700
-the problem is not the car it's me I
+а во мне
 
 83
 00:03:33,659 --> 00:03:38,459
-called up my buddy and he is a pro
+я повзонил приятелю и он
 
 84
 00:03:35,700 --> 00:03:41,280
-Drifter wanting scale I mean he's the
+про дрифтер 1/10 масштаба, Я имею ввиду, что
 
 85
 00:03:38,459 --> 00:03:43,440
-type of guy who packs up his cars and
+он из тех, кто берет свою машину и
 
 86
 00:03:41,280 --> 00:03:46,379
-hit the airport to participate in Japan
+едет в аэропорт, что бы учавствовать в
+соревнования в Японии
 
 87
 00:03:43,440 --> 00:03:48,659
-in UK in drifting events so I called him
+в дрифт эвентах в UK, так что я позвонил ему
 
 88
 00:03:46,379 --> 00:03:51,120
-up he came to the house
+и пригласил в гости
 
 89
 00:03:48,659 --> 00:03:52,920
-he had no idea about this the first
+он понятия не имел, что его ожидает
 
 90
 00:03:51,120 --> 00:03:54,780
-thing he said is this amenity that all
+Первое, что он спросил, это mini-z?
 
 91
 00:03:52,920 --> 00:03:56,760
-Hino I told him now I tried to explain
+Я сказал ему нет, попробовал объяснить
 
 92
 00:03:54,780 --> 00:03:59,459
-that DRZ what's that so he told me okay
+что это DRZ. Он сказал ок
 
 93
 00:03:56,760 --> 00:04:01,980
-let's try I gave him the radio it took
+давай попробуем. Я дал ему передатчик. У него заняло
 
 94
 00:03:59,459 --> 00:04:04,560
-maybe 30 seconds he was spinning right
+может быть 30 секунд он крутился на право
 
 95
 00:04:01,980 --> 00:04:07,620
-and left 48 seconds and after that 30
+и на лево 48 секнуд и потом он пол минуты
 
 96
 00:04:04,560 --> 00:04:09,780
-seconds he was holding angles
+держал угол
 
 97
 00:04:07,620 --> 00:04:11,580
-I was not even
+Я даже не думал
 
 98
 00:04:09,780 --> 00:04:14,700
-considering I didn't even know that
+и не знал, что шасси
 
 99
 00:04:11,580 --> 00:04:18,660
-chassis could do that so he confirmed my
+так может, так что он подтвердил 
 
 100
 00:04:14,700 --> 00:04:20,340
-suspicion is my problem is me not the
+мои опасения, что проблема не в 
 
 101
 00:04:18,660 --> 00:04:21,180
-car and you should always think about
+шасси и вы должны всегда помнить
 
 102
 00:04:20,340 --> 00:04:23,820
-this
+об этом
 
 103
 00:04:21,180 --> 00:04:25,680
-so if you are a beginner I expect that
+так что если вы начинающий Я ожидаю, что
 
 104
 00:04:23,820 --> 00:04:28,380
-you will face the same issues I faced
+Вы сталкнетесь с теме же проблемами
+что и Я
 
 105
 00:04:25,680 --> 00:04:31,139
-with my first ever shots in the DRZ one
+с моими первыми пробами DRZ 1
 
 106
 00:04:28,380 --> 00:04:34,440
-and
+Если вы конечно считаете
 
 107
 00:04:31,139 --> 00:04:36,120
-if your idea of drifting is to Simply Be
+что дрифт это просто скользить туда-сюда
 
 108
 00:04:34,440 --> 00:04:38,520
-able to slide the car here and there
+то у вас получится сразу
 
 109
 00:04:36,120 --> 00:04:41,280
-then sure you will be able to I was able
+У меня получилось скользить
 
 110
 00:04:38,520 --> 00:04:44,100
-to slide my car from the first try but
+с первого раза, но
 
 111
 00:04:41,280 --> 00:04:48,600
-the problem was I was not as consistent
+проблема была в том, что это было не так
 
 112
 00:04:44,100 --> 00:04:50,639
-or as smooth as I expected
+ровно и плавно как я ожидал
 
 113
 00:04:48,600 --> 00:04:53,100
-when I held the radio for the first time
+Когда я держал пульт в первый раз
 
 114
 00:04:50,639 --> 00:04:55,500
-in my head I was envisioning those
+я вспоминал те ролики
 
 115
 00:04:53,100 --> 00:04:57,419
-videos and the angles that those guys
+и углы которые парни
 
 116
 00:04:55,500 --> 00:05:00,300
-were able to hold and the smoothness
+держали и ту плавность с которой
 
 117
 00:04:57,419 --> 00:05:03,660
-these things were able to travel at but
+они управляли шасси, но
 
 118
 00:05:00,300 --> 00:05:06,540
-it was not realistic my drifting skills
+на тот момент я так не мог
 
 119
 00:05:03,660 --> 00:05:09,060
-or my build up at that time it was
+или моя сборка была
 
 120
 00:05:06,540 --> 00:05:10,199
-worthy of a five-year-old so at this
+достойна пяти летнего ребенка
 
 121
 00:05:09,060 --> 00:05:12,720
-point if you have any previous
+на этом этапе, если бы у вас был
 
 122
 00:05:10,199 --> 00:05:14,220
-experience with drifting you would know
+опыт в дрифте, вы бы
 
 123
 00:05:12,720 --> 00:05:16,380
-exactly what's wrong with your chassis
+знали, что с вашей шасси не так
 
 124
 00:05:14,220 --> 00:05:18,720
-and you'll be able to fix it no problem
+и исправили это без проблем
 
 125
 00:05:16,380 --> 00:05:20,880
-but if you are a beginner
+Но если вы начинающий
 
 126
 00:05:18,720 --> 00:05:23,820
-the only way to get yourself after that
+единственный путь продолжить после такой
 
 127
 00:05:20,880 --> 00:05:27,060
-situation is by understanding the basic
+ситуации, это понять концептуальные
 
 128
 00:05:23,820 --> 00:05:29,940
-concepts of drifting right so when we
+основы дрифта, так что когда мы
 
 129
 00:05:27,060 --> 00:05:33,600
-say drifting the whole idea is to lose
+говорим дрифт, идея состояит в потере
 
 130
 00:05:29,940 --> 00:05:35,520
-traction right lose traction but while
+сцепления, но при этом мы сохраняем
 
 131
 00:05:33,600 --> 00:05:37,919
-maintaining a full control of your
+полный контроль движения
 
 132
 00:05:35,520 --> 00:05:39,900
-direction so if your rear end swing
+так, если зад шасси закручивается
 
 133
 00:05:37,919 --> 00:05:42,539
-you're steering
+ваша рулевая
 
 134
 00:05:39,900 --> 00:05:45,479
-needs to be able to compensate for
+должна компенсировать
 
 135
 00:05:42,539 --> 00:05:47,759
-whatever angle you are drifting at even
+любой угол который вы держите
 
 136
 00:05:45,479 --> 00:05:50,340
-if it's a 90 degree angle that's the
+даже если это 90 градусов, это основной
 
 137
 00:05:47,759 --> 00:05:52,380
-concept of drifting if your throttle is
+концепт дрифта. Если у вас много газа и 
 
 138
 00:05:50,340 --> 00:05:54,620
-higher and your steering is lower or
+меньше выворота или 
 
 139
 00:05:52,380 --> 00:05:57,060
-vice versa you'll immediately spin out
+наоборот, шасси сразу же закртит
 
 140
 00:05:54,620 --> 00:05:59,940
-let's start talking about how to get
+Давайте начнем обсуждать как заставить
 
 141
 00:05:57,060 --> 00:06:03,180
-your Chelsea to act right and the way I
+вашу шасси вести себя правильно и вот мои
 
 142
 00:05:59,940 --> 00:06:05,340
-do it is there are three major steps
+три основных шага
 
 143
 00:06:03,180 --> 00:06:07,740
-that you have to follow
+которым вы должны следовать
 
 144
 00:06:05,340 --> 00:06:11,460
-first step is building
+первый шаг, сборка
 
 145
 00:06:07,740 --> 00:06:13,380
-then tuning then drifting skills if you
+потом настройки и навыки дрифта, если вы
 
 146
 00:06:11,460 --> 00:06:16,080
-build it right and you drew in it
+собрали и настроили правильно 
 
 147
 00:06:13,380 --> 00:06:19,020
-correctly your skills will develop very
+ваш навык будет расти очень быстро
 
 148
 00:06:16,080 --> 00:06:22,319
-fast but if you mess up in these two
+но если вы запутались в первых двух шагах
 
 149
 00:06:19,020 --> 00:06:25,020
-steps you either gonna give up
+вы либо сдадитесь и 
 
 150
 00:06:22,319 --> 00:06:28,199
-and probably sell your chassis or you
+возможно продадите шасси или 
 
 151
 00:06:25,020 --> 00:06:30,000
-will see little to no progression in
+вы не будете видеть прогресса
 
 152
 00:06:28,199 --> 00:06:33,180
