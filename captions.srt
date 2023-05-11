@@ -1,0 +1,5828 @@
+1
+00:00:02,879 --> 00:00:05,840
+foreign
+
+2
+00:00:07,200 --> 00:00:11,400
+good morning everyone this is Muhammad
+
+3
+00:00:09,599 --> 00:00:12,900
+Ali back with another video and in
+
+4
+00:00:11,400 --> 00:00:15,120
+today's video I want to share with you
+
+5
+00:00:12,900 --> 00:00:18,000
+what I've learned so far when it comes
+
+6
+00:00:15,120 --> 00:00:19,740
+to getting your chassis to act right
+
+7
+00:00:18,000 --> 00:00:22,320
+I'll try to make this as simple as
+
+8
+00:00:19,740 --> 00:00:23,820
+possible for new Drifters especially and
+
+9
+00:00:22,320 --> 00:00:25,859
+hopefully help you with your current
+
+10
+00:00:23,820 --> 00:00:27,900
+setup so let's start with the scenario
+
+11
+00:00:25,859 --> 00:00:30,359
+that we are all familiar with we just
+
+12
+00:00:27,900 --> 00:00:32,279
+received your brand new chassis
+
+13
+00:00:30,359 --> 00:00:34,440
+which is most likely your first chance
+
+14
+00:00:32,279 --> 00:00:36,899
+if you're a beginner of course and it
+
+15
+00:00:34,440 --> 00:00:39,120
+comes like in a thousand pieces right so
+
+16
+00:00:36,899 --> 00:00:42,360
+you put it together and you drive it for
+
+17
+00:00:39,120 --> 00:00:46,140
+the first time and then reality hits you
+
+18
+00:00:42,360 --> 00:00:49,800
+it's no way near what you expected
+
+19
+00:00:46,140 --> 00:00:51,420
+right because let's be honest you buy a
+
+20
+00:00:49,800 --> 00:00:53,760
+chassis based on what you've seen on
+
+21
+00:00:51,420 --> 00:00:56,340
+YouTube and Facebook which is which is
+
+22
+00:00:53,760 --> 00:00:57,600
+bad things to do in my opinion this is
+
+23
+00:00:56,340 --> 00:00:59,879
+phase one
+
+24
+00:00:57,600 --> 00:01:01,379
+so what's the second phase I call it the
+
+25
+00:00:59,879 --> 00:01:03,680
+grieving phase
+
+26
+00:01:01,379 --> 00:01:06,900
+so at this point you are disappointed
+
+27
+00:01:03,680 --> 00:01:08,580
+you're angry you regret the 200 plus
+
+28
+00:01:06,900 --> 00:01:09,780
+dollars you spend with this on this
+
+29
+00:01:08,580 --> 00:01:11,580
+piece of garbage
+
+30
+00:01:09,780 --> 00:01:13,799
+and there's nothing wrong with that we
+
+31
+00:01:11,580 --> 00:01:15,900
+all started like this
+
+32
+00:01:13,799 --> 00:01:17,880
+there's something you need to know in
+
+33
+00:01:15,900 --> 00:01:19,860
+order to get your car to just try it
+
+34
+00:01:17,880 --> 00:01:22,500
+there's a lot of steps that you have to
+
+35
+00:01:19,860 --> 00:01:25,680
+follow which most newcomers don't know
+
+36
+00:01:22,500 --> 00:01:27,840
+because the manual does not say so so to
+
+37
+00:01:25,680 --> 00:01:30,960
+prove my point I'll share my personal
+
+38
+00:01:27,840 --> 00:01:33,780
+experience and hopefully it will boost
+
+39
+00:01:30,960 --> 00:01:37,200
+your confidence to keep at it with your
+
+40
+00:01:33,780 --> 00:01:41,340
+drifting car I started drifting
+
+41
+00:01:37,200 --> 00:01:43,439
+in the September 2019 my first Chasse
+
+42
+00:01:41,340 --> 00:01:46,560
+was DRZ one
+
+43
+00:01:43,439 --> 00:01:50,220
+and before that I used to competitively
+
+44
+00:01:46,560 --> 00:01:53,700
+raise 1 8 scale and 1 10 scale buggies
+
+45
+00:01:50,220 --> 00:01:57,240
+and electric and Nitro and after that I
+
+46
+00:01:53,700 --> 00:01:58,200
+raced drones for almost four years so I
+
+47
+00:01:57,240 --> 00:01:59,700
+have
+
+48
+00:01:58,200 --> 00:02:02,759
+quite experienced when it comes to
+
+49
+00:01:59,700 --> 00:02:06,119
+building and and tuning so when I picked
+
+50
+00:02:02,759 --> 00:02:09,000
+the trz it was my first ever micro mini
+
+51
+00:02:06,119 --> 00:02:11,580
+drift chassis I was excited I put it I
+
+52
+00:02:09,000 --> 00:02:14,099
+put it together and for the first time I
+
+53
+00:02:11,580 --> 00:02:16,260
+tried it out it looked like a
+
+54
+00:02:14,099 --> 00:02:20,400
+five-year-old was holding the radio
+
+55
+00:02:16,260 --> 00:02:22,020
+seriously so this is normal because even
+
+56
+00:02:20,400 --> 00:02:24,420
+though I have experience
+
+57
+00:02:22,020 --> 00:02:28,560
+with building and tuning at that point
+
+58
+00:02:24,420 --> 00:02:29,940
+my experience was to build so as not to
+
+59
+00:02:28,560 --> 00:02:33,900
+lose traction
+
+60
+00:02:29,940 --> 00:02:36,540
+see in a race if you go sideway or if
+
+61
+00:02:33,900 --> 00:02:38,520
+you lose traction you lose time
+
+62
+00:02:36,540 --> 00:02:40,560
+and if you lose time you'll lose the
+
+63
+00:02:38,520 --> 00:02:45,660
+race keep in mind at that point of time
+
+64
+00:02:40,560 --> 00:02:49,200
+I rebuilt my drz1 almost 16 16 yes
+
+65
+00:02:45,660 --> 00:02:51,900
+exactly 16 times just to get it to act
+
+66
+00:02:49,200 --> 00:02:53,700
+right because in my head I was still
+
+67
+00:02:51,900 --> 00:02:56,760
+caught up in this bubble that I have
+
+68
+00:02:53,700 --> 00:02:59,459
+experienced I know how to race and most
+
+69
+00:02:56,760 --> 00:03:01,860
+probably the problem is the car so I
+
+70
+00:02:59,459 --> 00:03:04,260
+watch a lot of YouTube videos I watch I
+
+71
+00:03:01,860 --> 00:03:07,379
+read a lot of reviews on Facebook
+
+72
+00:03:04,260 --> 00:03:12,360
+at the end I got it right all parts all
+
+73
+00:03:07,379 --> 00:03:14,040
+arms they were fitted freely with no
+
+74
+00:03:12,360 --> 00:03:16,680
+play Zero play which is the way it
+
+75
+00:03:14,040 --> 00:03:19,260
+should be and I kept at it trying every
+
+76
+00:03:16,680 --> 00:03:20,400
+day and still I was progressing but not
+
+77
+00:03:19,260 --> 00:03:23,819
+as fast
+
+78
+00:03:20,400 --> 00:03:26,400
+or as impressive as I've seen on the net
+
+79
+00:03:23,819 --> 00:03:30,000
+on the YouTube so I called up my buddy
+
+80
+00:03:26,400 --> 00:03:31,260
+because I thought to myself maybe only
+
+81
+00:03:30,000 --> 00:03:33,659
+maybe
+
+82
+00:03:31,260 --> 00:03:35,700
+the problem is not the car it's me I
+
+83
+00:03:33,659 --> 00:03:38,459
+called up my buddy and he is a pro
+
+84
+00:03:35,700 --> 00:03:41,280
+Drifter wanting scale I mean he's the
+
+85
+00:03:38,459 --> 00:03:43,440
+type of guy who packs up his cars and
+
+86
+00:03:41,280 --> 00:03:46,379
+hit the airport to participate in Japan
+
+87
+00:03:43,440 --> 00:03:48,659
+in UK in drifting events so I called him
+
+88
+00:03:46,379 --> 00:03:51,120
+up he came to the house
+
+89
+00:03:48,659 --> 00:03:52,920
+he had no idea about this the first
+
+90
+00:03:51,120 --> 00:03:54,780
+thing he said is this amenity that all
+
+91
+00:03:52,920 --> 00:03:56,760
+Hino I told him now I tried to explain
+
+92
+00:03:54,780 --> 00:03:59,459
+that DRZ what's that so he told me okay
+
+93
+00:03:56,760 --> 00:04:01,980
+let's try I gave him the radio it took
+
+94
+00:03:59,459 --> 00:04:04,560
+maybe 30 seconds he was spinning right
+
+95
+00:04:01,980 --> 00:04:07,620
+and left 48 seconds and after that 30
+
+96
+00:04:04,560 --> 00:04:09,780
+seconds he was holding angles
+
+97
+00:04:07,620 --> 00:04:11,580
+I was not even
+
+98
+00:04:09,780 --> 00:04:14,700
+considering I didn't even know that
+
+99
+00:04:11,580 --> 00:04:18,660
+chassis could do that so he confirmed my
+
+100
+00:04:14,700 --> 00:04:20,340
+suspicion is my problem is me not the
+
+101
+00:04:18,660 --> 00:04:21,180
+car and you should always think about
+
+102
+00:04:20,340 --> 00:04:23,820
+this
+
+103
+00:04:21,180 --> 00:04:25,680
+so if you are a beginner I expect that
+
+104
+00:04:23,820 --> 00:04:28,380
+you will face the same issues I faced
+
+105
+00:04:25,680 --> 00:04:31,139
+with my first ever shots in the DRZ one
+
+106
+00:04:28,380 --> 00:04:34,440
+and
+
+107
+00:04:31,139 --> 00:04:36,120
+if your idea of drifting is to Simply Be
+
+108
+00:04:34,440 --> 00:04:38,520
+able to slide the car here and there
+
+109
+00:04:36,120 --> 00:04:41,280
+then sure you will be able to I was able
+
+110
+00:04:38,520 --> 00:04:44,100
+to slide my car from the first try but
+
+111
+00:04:41,280 --> 00:04:48,600
+the problem was I was not as consistent
+
+112
+00:04:44,100 --> 00:04:50,639
+or as smooth as I expected
+
+113
+00:04:48,600 --> 00:04:53,100
+when I held the radio for the first time
+
+114
+00:04:50,639 --> 00:04:55,500
+in my head I was envisioning those
+
+115
+00:04:53,100 --> 00:04:57,419
+videos and the angles that those guys
+
+116
+00:04:55,500 --> 00:05:00,300
+were able to hold and the smoothness
+
+117
+00:04:57,419 --> 00:05:03,660
+these things were able to travel at but
+
+118
+00:05:00,300 --> 00:05:06,540
+it was not realistic my drifting skills
+
+119
+00:05:03,660 --> 00:05:09,060
+or my build up at that time it was
+
+120
+00:05:06,540 --> 00:05:10,199
+worthy of a five-year-old so at this
+
+121
+00:05:09,060 --> 00:05:12,720
+point if you have any previous
+
+122
+00:05:10,199 --> 00:05:14,220
+experience with drifting you would know
+
+123
+00:05:12,720 --> 00:05:16,380
+exactly what's wrong with your chassis
+
+124
+00:05:14,220 --> 00:05:18,720
+and you'll be able to fix it no problem
+
+125
+00:05:16,380 --> 00:05:20,880
+but if you are a beginner
+
+126
+00:05:18,720 --> 00:05:23,820
+the only way to get yourself after that
+
+127
+00:05:20,880 --> 00:05:27,060
+situation is by understanding the basic
+
+128
+00:05:23,820 --> 00:05:29,940
+concepts of drifting right so when we
+
+129
+00:05:27,060 --> 00:05:33,600
+say drifting the whole idea is to lose
+
+130
+00:05:29,940 --> 00:05:35,520
+traction right lose traction but while
+
+131
+00:05:33,600 --> 00:05:37,919
+maintaining a full control of your
+
+132
+00:05:35,520 --> 00:05:39,900
+direction so if your rear end swing
+
+133
+00:05:37,919 --> 00:05:42,539
+you're steering
+
+134
+00:05:39,900 --> 00:05:45,479
+needs to be able to compensate for
+
+135
+00:05:42,539 --> 00:05:47,759
+whatever angle you are drifting at even
+
+136
+00:05:45,479 --> 00:05:50,340
+if it's a 90 degree angle that's the
+
+137
+00:05:47,759 --> 00:05:52,380
+concept of drifting if your throttle is
+
+138
+00:05:50,340 --> 00:05:54,620
+higher and your steering is lower or
+
+139
+00:05:52,380 --> 00:05:57,060
+vice versa you'll immediately spin out
+
+140
+00:05:54,620 --> 00:05:59,940
+let's start talking about how to get
+
+141
+00:05:57,060 --> 00:06:03,180
+your Chelsea to act right and the way I
+
+142
+00:05:59,940 --> 00:06:05,340
+do it is there are three major steps
+
+143
+00:06:03,180 --> 00:06:07,740
+that you have to follow
+
+144
+00:06:05,340 --> 00:06:11,460
+first step is building
+
+145
+00:06:07,740 --> 00:06:13,380
+then tuning then drifting skills if you
+
+146
+00:06:11,460 --> 00:06:16,080
+build it right and you drew in it
+
+147
+00:06:13,380 --> 00:06:19,020
+correctly your skills will develop very
+
+148
+00:06:16,080 --> 00:06:22,319
+fast but if you mess up in these two
+
+149
+00:06:19,020 --> 00:06:25,020
+steps you either gonna give up
+
+150
+00:06:22,319 --> 00:06:28,199
+and probably sell your chassis or you
+
+151
+00:06:25,020 --> 00:06:30,000
+will see little to no progression in
+
+152
+00:06:28,199 --> 00:06:33,180
+your skills so you have to follow the
+
+153
+00:06:30,000 --> 00:06:36,600
+steps so building that sounds simple
+
+154
+00:06:33,180 --> 00:06:37,919
+right you just download the instruction
+
+155
+00:06:36,600 --> 00:06:40,139
+manual
+
+156
+00:06:37,919 --> 00:06:42,900
+you read through it and you follow it
+
+157
+00:06:40,139 --> 00:06:45,240
+step by step which part goes where
+
+158
+00:06:42,900 --> 00:06:47,400
+and you're done with it this is not
+
+159
+00:06:45,240 --> 00:06:49,259
+necessary means you build your chassis
+
+160
+00:06:47,400 --> 00:06:53,220
+there's a big difference between a Lego
+
+161
+00:06:49,259 --> 00:06:55,740
+and an RC drift car for example
+
+162
+00:06:53,220 --> 00:06:57,780
+let's talk about this arm here
+
+163
+00:06:55,740 --> 00:07:00,600
+for example if not discount necessary
+
+164
+00:06:57,780 --> 00:07:02,580
+any car if the manual says put the arm
+
+165
+00:07:00,600 --> 00:07:04,500
+in this position and place two or three
+
+166
+00:07:02,580 --> 00:07:05,940
+shims up front for example if you don't
+
+167
+00:07:04,500 --> 00:07:07,979
+know what the shim is it's a small
+
+168
+00:07:05,940 --> 00:07:09,960
+plastic spacers that you have to place
+
+169
+00:07:07,979 --> 00:07:12,300
+to move the arm in a certain position
+
+170
+00:07:09,960 --> 00:07:15,180
+forward and back or backward to control
+
+171
+00:07:12,300 --> 00:07:19,380
+your Caster anyway for example let's say
+
+172
+00:07:15,180 --> 00:07:21,479
+the the manual set two two shims and you
+
+173
+00:07:19,380 --> 00:07:25,039
+place the two Shams and then your arm
+
+174
+00:07:21,479 --> 00:07:25,039
+acts like this see
+
+175
+00:07:27,120 --> 00:07:32,280
+this is bad this is too much play in the
+
+176
+00:07:30,300 --> 00:07:35,460
+arm and the reason for that even the
+
+177
+00:07:32,280 --> 00:07:38,639
+manual sit so because the the quality
+
+178
+00:07:35,460 --> 00:07:42,960
+control for this small plastic injection
+
+179
+00:07:38,639 --> 00:07:44,300
+mold part is not 100 accurate my arm
+
+180
+00:07:42,960 --> 00:07:48,060
+might be
+
+181
+00:07:44,300 --> 00:07:51,479
+0.05 thinner than your arm so in my case
+
+182
+00:07:48,060 --> 00:07:54,300
+I have to place one extra shim here to
+
+183
+00:07:51,479 --> 00:07:57,060
+control or to eliminate display while at
+
+184
+00:07:54,300 --> 00:07:59,880
+the same time maintaining full up and
+
+185
+00:07:57,060 --> 00:08:01,319
+low pre-motion so these things you have
+
+186
+00:07:59,880 --> 00:08:02,639
+to consider this is the difference
+
+187
+00:08:01,319 --> 00:08:04,620
+between
+
+188
+00:08:02,639 --> 00:08:07,139
+putting together a chassis and building
+
+189
+00:08:04,620 --> 00:08:11,160
+a chassis and this goes all over the
+
+190
+00:08:07,139 --> 00:08:14,340
+chassis all parts should fit nicely in
+
+191
+00:08:11,160 --> 00:08:15,300
+the sense they move freely but with zero
+
+192
+00:08:14,340 --> 00:08:17,819
+play
+
+193
+00:08:15,300 --> 00:08:19,800
+is the enemy of drifting keep in mind
+
+194
+00:08:17,819 --> 00:08:22,259
+always play is the enemy with drifting
+
+195
+00:08:19,800 --> 00:08:24,180
+if you have any play in your
+
+196
+00:08:22,259 --> 00:08:27,300
+steering
+
+197
+00:08:24,180 --> 00:08:30,419
+or in your arms or in your wheels
+
+198
+00:08:27,300 --> 00:08:32,940
+this will drive your gyro crazy your car
+
+199
+00:08:30,419 --> 00:08:35,339
+will be twerking all over the place so
+
+200
+00:08:32,940 --> 00:08:37,200
+this thing to keep in mind now there are
+
+201
+00:08:35,339 --> 00:08:39,719
+some rare situations where we have to
+
+202
+00:08:37,200 --> 00:08:42,539
+choose between either having a little
+
+203
+00:08:39,719 --> 00:08:45,660
+bit of play or a little bit of friction
+
+204
+00:08:42,539 --> 00:08:49,440
+for example let's say you're placing
+
+205
+00:08:45,660 --> 00:08:51,480
+your knuckle or your your arm and if you
+
+206
+00:08:49,440 --> 00:08:53,700
+place for example two shims it's a
+
+207
+00:08:51,480 --> 00:08:57,180
+little bit loose but if you place
+
+208
+00:08:53,700 --> 00:08:59,160
+another shim it's tight so in that
+
+209
+00:08:57,180 --> 00:09:01,500
+situation you have to improvise you have
+
+210
+00:08:59,160 --> 00:09:04,560
+to take that extra shim and sand it down
+
+211
+00:09:01,500 --> 00:09:07,560
+then keep at it try again until you lose
+
+212
+00:09:04,560 --> 00:09:11,279
+the play while maintaining a free motion
+
+213
+00:09:07,560 --> 00:09:12,959
+of the arm so the first thing that I do
+
+214
+00:09:11,279 --> 00:09:15,600
+when it comes to tuning the first thing
+
+215
+00:09:12,959 --> 00:09:17,700
+I adjust is my right height and if you
+
+216
+00:09:15,600 --> 00:09:19,620
+don't know what right height is it's a
+
+217
+00:09:17,700 --> 00:09:21,360
+bit simply the distance or the clearance
+
+218
+00:09:19,620 --> 00:09:23,899
+between the bottom of your chassis and
+
+219
+00:09:21,360 --> 00:09:27,000
+the ground I noticed that most guys run
+
+220
+00:09:23,899 --> 00:09:29,580
+2.2 or 2.3 I don't remember I think 2.3
+
+221
+00:09:27,000 --> 00:09:31,740
+millimeter up front and 2.5 millimeter
+
+222
+00:09:29,580 --> 00:09:34,080
+in the back so basically the chassis is
+
+223
+00:09:31,740 --> 00:09:36,959
+slightly leaning forward
+
+224
+00:09:34,080 --> 00:09:39,959
+yeah so it's slightly leaning forward
+
+225
+00:09:36,959 --> 00:09:43,260
+now for me and this is highly subjective
+
+226
+00:09:39,959 --> 00:09:45,180
+to your uh driving skill and what you
+
+227
+00:09:43,260 --> 00:09:47,700
+prefer when it comes to weight
+
+228
+00:09:45,180 --> 00:09:50,519
+distribution because the whole idea of
+
+229
+00:09:47,700 --> 00:09:52,380
+having right height tilted forward or
+
+230
+00:09:50,519 --> 00:09:55,500
+leaning backward is weight distribution
+
+231
+00:09:52,380 --> 00:09:56,519
+after all now for me when I do my right
+
+232
+00:09:55,500 --> 00:09:59,220
+height
+
+233
+00:09:56,519 --> 00:10:01,800
+I consider two things the first thing is
+
+234
+00:09:59,220 --> 00:10:04,260
+the overall weight of my chassis and the
+
+235
+00:10:01,800 --> 00:10:07,140
+strength of my Springs
+
+236
+00:10:04,260 --> 00:10:11,100
+and my goal the thing I want to achieve
+
+237
+00:10:07,140 --> 00:10:13,440
+is on acceleration I want my chassis to
+
+238
+00:10:11,100 --> 00:10:15,120
+squat little bit to the back
+
+239
+00:10:13,440 --> 00:10:16,800
+okay when I press acceleration the
+
+240
+00:10:15,120 --> 00:10:20,060
+chassis should slightly
+
+241
+00:10:16,800 --> 00:10:20,060
+lean to the back like this
+
+242
+00:10:23,640 --> 00:10:30,660
+is the same concept that we use in 110
+
+243
+00:10:27,019 --> 00:10:33,839
+two-wheel drive indoor buggies because
+
+244
+00:10:30,660 --> 00:10:35,940
+since it's a three wheel drive the more
+
+245
+00:10:33,839 --> 00:10:38,459
+leaning or the more weight shifting to
+
+246
+00:10:35,940 --> 00:10:39,959
+the back that means the more weight will
+
+247
+00:10:38,459 --> 00:10:42,540
+be on the rear wheel which are the
+
+248
+00:10:39,959 --> 00:10:44,700
+active wheel connected motor and this
+
+249
+00:10:42,540 --> 00:10:47,160
+way you will maintain constant Traction
+
+250
+00:10:44,700 --> 00:10:50,880
+in the back and constant forward motion
+
+251
+00:10:47,160 --> 00:10:54,779
+for example if I if my Springs were hard
+
+252
+00:10:50,880 --> 00:10:56,579
+my rear springs were hard and won't
+
+253
+00:10:54,779 --> 00:10:58,500
+acceleration nothing change if I crease
+
+254
+00:10:56,579 --> 00:11:01,620
+acceleration the car slightly move in
+
+255
+00:10:58,500 --> 00:11:02,940
+the same right height I mean the shift
+
+256
+00:11:01,620 --> 00:11:05,040
+there's no shift at all because the
+
+257
+00:11:02,940 --> 00:11:07,760
+strings are hard in that case I
+
+258
+00:11:05,040 --> 00:11:10,920
+deliberately screw in my rear
+
+259
+00:11:07,760 --> 00:11:12,959
+droop screws slightly so my right height
+
+260
+00:11:10,920 --> 00:11:14,820
+would look like this standing still
+
+261
+00:11:12,959 --> 00:11:16,560
+because I know there's no weight shift
+
+262
+00:11:14,820 --> 00:11:20,700
+on acceleration because the Springs are
+
+263
+00:11:16,560 --> 00:11:23,640
+hard in case if my Springs are soft
+
+264
+00:11:20,700 --> 00:11:25,860
+and when I press acceleration I notice
+
+265
+00:11:23,640 --> 00:11:28,800
+that the body automatically leans to the
+
+266
+00:11:25,860 --> 00:11:31,260
+back in that case I set up my right
+
+267
+00:11:28,800 --> 00:11:33,839
+height to be parallel to the ground and
+
+268
+00:11:31,260 --> 00:11:35,940
+my preferred spot is about 2.5
+
+269
+00:11:33,839 --> 00:11:38,640
+millimeter all across
+
+270
+00:11:35,940 --> 00:11:41,399
+if I have to lean it to the back via
+
+271
+00:11:38,640 --> 00:11:43,920
+group screws I go three millimeters up
+
+272
+00:11:41,399 --> 00:11:45,660
+front and I go about 2.5 millimeters in
+
+273
+00:11:43,920 --> 00:11:47,940
+the rear and if you notice this chassis
+
+274
+00:11:45,660 --> 00:11:49,079
+now as it is it's slightly leaning to
+
+275
+00:11:47,940 --> 00:11:51,480
+the back
+
+276
+00:11:49,079 --> 00:11:53,779
+you can see the clearance here how big
+
+277
+00:11:51,480 --> 00:11:53,779
+it is
+
+278
+00:11:54,300 --> 00:11:59,459
+and here slightly smaller and if you
+
+279
+00:11:57,120 --> 00:12:01,680
+notice here also my drip screws are not
+
+280
+00:11:59,459 --> 00:12:04,560
+identical I did this deliberately to
+
+281
+00:12:01,680 --> 00:12:07,980
+show you if you noticed the the toe bar
+
+282
+00:12:04,560 --> 00:12:10,019
+here is not parallel to the ground so
+
+283
+00:12:07,980 --> 00:12:12,540
+my right group screw on the right side
+
+284
+00:12:10,019 --> 00:12:15,000
+here is shorter than the other I have to
+
+285
+00:12:12,540 --> 00:12:18,320
+screw this side slightly bit in to push
+
+286
+00:12:15,000 --> 00:12:18,320
+the chassis slightly down
+
+287
+00:12:18,720 --> 00:12:21,500
+this way
+
+288
+00:12:21,720 --> 00:12:26,279
+it's parallel to the ground so if I
+
+289
+00:12:23,940 --> 00:12:28,019
+release it you can notice my chassis is
+
+290
+00:12:26,279 --> 00:12:29,880
+tilted to the left side and this one of
+
+291
+00:12:28,019 --> 00:12:32,880
+the features that most guys don't pay
+
+292
+00:12:29,880 --> 00:12:35,519
+attention to and then at this setting if
+
+293
+00:12:32,880 --> 00:12:38,459
+I drive my car it will ride well but
+
+294
+00:12:35,519 --> 00:12:40,980
+because my chest is all tilted to this
+
+295
+00:12:38,459 --> 00:12:43,019
+side it will not be consistent when it
+
+296
+00:12:40,980 --> 00:12:46,139
+comes to Drifting then after I'm done
+
+297
+00:12:43,019 --> 00:12:48,420
+with my ride height the next thing that
+
+298
+00:12:46,139 --> 00:12:50,880
+I adjust is my track width and the check
+
+299
+00:12:48,420 --> 00:12:53,279
+width simply is the distance
+
+300
+00:12:50,880 --> 00:12:55,500
+between the center of your chassis and
+
+301
+00:12:53,279 --> 00:12:58,079
+the outer surface of your wheels it can
+
+302
+00:12:55,500 --> 00:13:00,480
+go either narrow or wide and this
+
+303
+00:12:58,079 --> 00:13:02,399
+depends on two factors of course the
+
+304
+00:13:00,480 --> 00:13:03,899
+main factor is your body
+
+305
+00:13:02,399 --> 00:13:05,820
+what type of body have do you have a
+
+306
+00:13:03,899 --> 00:13:09,180
+narrow body or wide body and the second
+
+307
+00:13:05,820 --> 00:13:13,620
+factor is the offset of your wheels okay
+
+308
+00:13:09,180 --> 00:13:15,720
+so basically you measure your body and
+
+309
+00:13:13,620 --> 00:13:18,779
+you try to mimic that on your chassis
+
+310
+00:13:15,720 --> 00:13:21,420
+for example if you have a narrow uh
+
+311
+00:13:18,779 --> 00:13:22,980
+chassis like the the XR is actually a
+
+312
+00:13:21,420 --> 00:13:24,959
+white dressing if you have I mean if you
+
+313
+00:13:22,980 --> 00:13:28,019
+have a low offset Tire
+
+314
+00:13:24,959 --> 00:13:29,820
+you have to undo your screws on the arms
+
+315
+00:13:28,019 --> 00:13:31,680
+the upper arms and the low arms so the
+
+316
+00:13:29,820 --> 00:13:33,600
+whole assembly goes outward and you
+
+317
+00:13:31,680 --> 00:13:35,940
+imagine measure the distance between the
+
+318
+00:13:33,600 --> 00:13:37,920
+wheels and try to mimic it or try to get
+
+319
+00:13:35,940 --> 00:13:39,420
+the same distance of your body and the
+
+320
+00:13:37,920 --> 00:13:42,060
+goal
+
+321
+00:13:39,420 --> 00:13:44,820
+is to have your wheels that flat with
+
+322
+00:13:42,060 --> 00:13:47,160
+your fenders see in the rear in the rear
+
+323
+00:13:44,820 --> 00:13:49,079
+if I if I go beyond my fenders on
+
+324
+00:13:47,160 --> 00:13:51,360
+acceleration since my body already
+
+325
+00:13:49,079 --> 00:13:53,339
+squats it will drop against the tire and
+
+326
+00:13:51,360 --> 00:13:57,899
+you will lose speed up front if you go
+
+327
+00:13:53,339 --> 00:13:59,940
+beyond your fenders on steering the
+
+328
+00:13:57,899 --> 00:14:02,399
+wheels will grab or will drop against
+
+329
+00:13:59,940 --> 00:14:04,320
+your Fender and will spin out
+
+330
+00:14:02,399 --> 00:14:07,139
+immediately
+
+331
+00:14:04,320 --> 00:14:09,060
+in the rear most of most of the cars in
+
+332
+00:14:07,139 --> 00:14:11,279
+the market right now there's no
+
+333
+00:14:09,060 --> 00:14:13,380
+adjustability for the width
+
+334
+00:14:11,279 --> 00:14:15,540
+at stock form you have to buy extra
+
+335
+00:14:13,380 --> 00:14:17,160
+parts and the mode and the extra part
+
+336
+00:14:15,540 --> 00:14:19,620
+that I'm talking about is the the rear
+
+337
+00:14:17,160 --> 00:14:21,420
+lower arm example for the xrx there are
+
+338
+00:14:19,620 --> 00:14:24,420
+two options you can go with the big with
+
+339
+00:14:21,420 --> 00:14:26,339
+the long uh lower arm lower rear arm or
+
+340
+00:14:24,420 --> 00:14:28,500
+there's an optional part which the lower
+
+341
+00:14:26,339 --> 00:14:30,480
+ear arm has a screw in it and it's
+
+342
+00:14:28,500 --> 00:14:32,760
+expandable itself you can adjust it up
+
+343
+00:14:30,480 --> 00:14:35,519
+and down but at the same time you have
+
+344
+00:14:32,760 --> 00:14:37,740
+to accumulate for the extra width so you
+
+345
+00:14:35,519 --> 00:14:40,860
+have to purchase the optional dog bone
+
+346
+00:14:37,740 --> 00:14:42,660
+which is I think 10.3 millimeter let's
+
+347
+00:14:40,860 --> 00:14:44,940
+document it for the extra width of your
+
+348
+00:14:42,660 --> 00:14:47,639
+chassis after you're done setting up
+
+349
+00:14:44,940 --> 00:14:48,720
+your trackpad the next step or for me
+
+350
+00:14:47,639 --> 00:14:51,360
+the next step that I go through
+
+351
+00:14:48,720 --> 00:14:53,160
+immediately is my Caster setting now if
+
+352
+00:14:51,360 --> 00:14:55,560
+you don't know what Caster is it's
+
+353
+00:14:53,160 --> 00:14:58,019
+simply the axis of rotation in your
+
+354
+00:14:55,560 --> 00:15:00,360
+front wheel so imagine if this is the
+
+355
+00:14:58,019 --> 00:15:02,459
+axis of rotation at this sitting when I
+
+356
+00:15:00,360 --> 00:15:04,740
+rotate my front wheel it will rotate
+
+357
+00:15:02,459 --> 00:15:06,360
+fourth and back around this axis now if
+
+358
+00:15:04,740 --> 00:15:08,279
+I adjust my Caster if I adjust this
+
+359
+00:15:06,360 --> 00:15:11,579
+angle slightly to the back the wheel
+
+360
+00:15:08,279 --> 00:15:14,100
+will rotate slightly down and up and if
+
+361
+00:15:11,579 --> 00:15:16,199
+I adjust more again down and up and
+
+362
+00:15:14,100 --> 00:15:18,300
+that's what explains uh what a lot of
+
+363
+00:15:16,199 --> 00:15:21,000
+players or Drifters are suffering from
+
+364
+00:15:18,300 --> 00:15:23,040
+it's called wheel lifting that means you
+
+365
+00:15:21,000 --> 00:15:25,680
+have too much Caster to the point that
+
+366
+00:15:23,040 --> 00:15:27,180
+one wheel is pushing against the angle
+
+367
+00:15:25,680 --> 00:15:29,040
+and lifting the other wheel of the
+
+368
+00:15:27,180 --> 00:15:31,079
+ground the front wheel of course now the
+
+369
+00:15:29,040 --> 00:15:33,360
+theory or or there is a forecaster or
+
+370
+00:15:31,079 --> 00:15:36,060
+the function of Caster is
+
+371
+00:15:33,360 --> 00:15:37,680
+something called or we call it in
+
+372
+00:15:36,060 --> 00:15:40,620
+drifting what we call it the coin effect
+
+373
+00:15:37,680 --> 00:15:42,959
+or the Frisbee effect imagine
+
+374
+00:15:40,620 --> 00:15:45,240
+if you are rotating your wheels
+
+375
+00:15:42,959 --> 00:15:47,459
+now this Caster let me get the max
+
+376
+00:15:45,240 --> 00:15:50,339
+Caster so you can see
+
+377
+00:15:47,459 --> 00:15:53,339
+now I have the max caster
+
+378
+00:15:50,339 --> 00:15:54,600
+when I'm at full lock you'll notice this
+
+379
+00:15:53,339 --> 00:15:57,120
+wheel
+
+380
+00:15:54,600 --> 00:15:58,740
+is tilted to the back and this is what
+
+381
+00:15:57,120 --> 00:16:01,139
+gives you the Frisbee effect or the coin
+
+382
+00:15:58,740 --> 00:16:02,820
+effect imagine if you throw a frisbee on
+
+383
+00:16:01,139 --> 00:16:04,680
+the ground or a coin on the ground the
+
+384
+00:16:02,820 --> 00:16:07,440
+coin will go in straight line until it
+
+385
+00:16:04,680 --> 00:16:10,019
+starts losing speed and then whatever
+
+386
+00:16:07,440 --> 00:16:12,240
+angle the coin is leaning at it will
+
+387
+00:16:10,019 --> 00:16:15,420
+start rotating toward that angle
+
+388
+00:16:12,240 --> 00:16:17,699
+until it reach the center lose speed and
+
+389
+00:16:15,420 --> 00:16:21,060
+then drop it's just low of Gravity by
+
+390
+00:16:17,699 --> 00:16:22,620
+Isaac Newton so this effect is very
+
+391
+00:16:21,060 --> 00:16:24,480
+important this is the most important
+
+392
+00:16:22,620 --> 00:16:26,519
+effect when it comes to adjusting not
+
+393
+00:16:24,480 --> 00:16:27,899
+adjusting when it comes to stabilizing
+
+394
+00:16:26,519 --> 00:16:30,360
+your drifting angle
+
+395
+00:16:27,899 --> 00:16:32,160
+let's put it to practice for example you
+
+396
+00:16:30,360 --> 00:16:36,000
+are drifting on this direction you're
+
+397
+00:16:32,160 --> 00:16:37,920
+rotating now your rear end is already at
+
+398
+00:16:36,000 --> 00:16:39,180
+higher speed so it's it's standing or
+
+399
+00:16:37,920 --> 00:16:41,820
+it's going to
+
+400
+00:16:39,180 --> 00:16:44,220
+spin forward what you do is you counter
+
+401
+00:16:41,820 --> 00:16:46,980
+act that you counter steel right
+
+402
+00:16:44,220 --> 00:16:48,660
+to catch your it from spinning out but
+
+403
+00:16:46,980 --> 00:16:51,480
+at the same time because you have too
+
+404
+00:16:48,660 --> 00:16:54,000
+much Caster this wheel is digging in
+
+405
+00:16:51,480 --> 00:16:55,880
+that direction meaning this wheel has
+
+406
+00:16:54,000 --> 00:16:58,800
+the tendency to rotate on that direction
+
+407
+00:16:55,880 --> 00:17:01,139
+as if your front wheel is digging on the
+
+408
+00:16:58,800 --> 00:17:04,020
+ground pushing your front to the
+
+409
+00:17:01,139 --> 00:17:05,939
+direction of your drift and preventing
+
+410
+00:17:04,020 --> 00:17:08,040
+you from spinning out
+
+411
+00:17:05,939 --> 00:17:09,900
+the way to adjust your Caster is
+
+412
+00:17:08,040 --> 00:17:12,419
+different from chassis to chassis some
+
+413
+00:17:09,900 --> 00:17:15,000
+chassis like the DK have Caster screw
+
+414
+00:17:12,419 --> 00:17:18,000
+you undo the screw then you are free to
+
+415
+00:17:15,000 --> 00:17:20,220
+push forth or back your upper arms front
+
+416
+00:17:18,000 --> 00:17:22,980
+upper arms to adjust your casters most
+
+417
+00:17:20,220 --> 00:17:25,079
+of the other chassis use shims if you
+
+418
+00:17:22,980 --> 00:17:26,880
+take a look here in your upper arm you
+
+419
+00:17:25,079 --> 00:17:30,840
+have a dead space that you have to place
+
+420
+00:17:26,880 --> 00:17:32,880
+cm in to prevent the extra play and at
+
+421
+00:17:30,840 --> 00:17:34,740
+the same time to adjust your Caster if
+
+422
+00:17:32,880 --> 00:17:36,059
+you plus your shims up front you push
+
+423
+00:17:34,740 --> 00:17:38,039
+the arm to the back so you get more
+
+424
+00:17:36,059 --> 00:17:40,679
+caster and vice versa and all the space
+
+425
+00:17:38,039 --> 00:17:43,500
+in between you can divide like shame in
+
+426
+00:17:40,679 --> 00:17:47,160
+front and shame in the back some other
+
+427
+00:17:43,500 --> 00:17:50,160
+chest is just like uh yes the the GLD
+
+428
+00:17:47,160 --> 00:17:52,020
+they have Caster block which is optional
+
+429
+00:17:50,160 --> 00:17:54,179
+this block you unscrew the two blocks
+
+430
+00:17:52,020 --> 00:17:56,280
+the two screws and you slide the whole
+
+431
+00:17:54,179 --> 00:17:58,080
+block forward and back if you have a GLD
+
+432
+00:17:56,280 --> 00:18:01,260
+you have to get the Caster block
+
+433
+00:17:58,080 --> 00:18:03,419
+otherwise it will not perform right
+
+434
+00:18:01,260 --> 00:18:05,039
+so at this point I I know what you're
+
+435
+00:18:03,419 --> 00:18:06,780
+thinking about how much he has a share
+
+436
+00:18:05,039 --> 00:18:08,160
+you should I use and it's a hard
+
+437
+00:18:06,780 --> 00:18:09,660
+question to answer because it's
+
+438
+00:18:08,160 --> 00:18:11,760
+subjective it depends on your driving
+
+439
+00:18:09,660 --> 00:18:14,220
+skills it depends on the surface you're
+
+440
+00:18:11,760 --> 00:18:16,559
+running on the type of tires and that
+
+441
+00:18:14,220 --> 00:18:18,419
+the type of chassis that you have and
+
+442
+00:18:16,559 --> 00:18:21,660
+the overall weight over the chassis that
+
+443
+00:18:18,419 --> 00:18:24,000
+you got on uh for me the way I do it uh
+
+444
+00:18:21,660 --> 00:18:27,120
+initially I start with Max caster and I
+
+445
+00:18:24,000 --> 00:18:30,960
+try it out if I don't have wheel lift I
+
+446
+00:18:27,120 --> 00:18:33,299
+stay at Max faster but if I start to see
+
+447
+00:18:30,960 --> 00:18:35,820
+we'll lift as if I'm driving a three
+
+448
+00:18:33,299 --> 00:18:39,000
+wheeler instead of four wheel contact I
+
+449
+00:18:35,820 --> 00:18:41,820
+reduce the Caster Some people prefer not
+
+450
+00:18:39,000 --> 00:18:44,220
+to reduce the Caster but to screw in the
+
+451
+00:18:41,820 --> 00:18:46,500
+front Loop screw meaning to reduce the
+
+452
+00:18:44,220 --> 00:18:49,200
+front right height and it's up to you
+
+453
+00:18:46,500 --> 00:18:51,840
+but initially start with Max caster and
+
+454
+00:18:49,200 --> 00:18:55,020
+test it the only side effect to Max
+
+455
+00:18:51,840 --> 00:18:57,960
+Caster is wheel lifting now after you're
+
+456
+00:18:55,020 --> 00:19:00,660
+done testing various angles of caster
+
+457
+00:18:57,960 --> 00:19:03,299
+and eventually finding what Suits You
+
+458
+00:19:00,660 --> 00:19:05,280
+me I go immediately after that to my
+
+459
+00:19:03,299 --> 00:19:07,380
+camera setting and if you don't if you
+
+460
+00:19:05,280 --> 00:19:09,780
+don't know what camber is basically it's
+
+461
+00:19:07,380 --> 00:19:12,900
+the vertical relationship between your
+
+462
+00:19:09,780 --> 00:19:15,000
+wheels and the body so if my wheels is
+
+463
+00:19:12,900 --> 00:19:18,000
+straight parallel to my body it's called
+
+464
+00:19:15,000 --> 00:19:20,160
+zero camber now if my wheels start to
+
+465
+00:19:18,000 --> 00:19:21,600
+lean toward the body this is positive
+
+466
+00:19:20,160 --> 00:19:23,640
+camber
+
+467
+00:19:21,600 --> 00:19:24,720
+and the opposite direction is negative
+
+468
+00:19:23,640 --> 00:19:27,840
+camber
+
+469
+00:19:24,720 --> 00:19:30,179
+rule of thumb never use negative camber
+
+470
+00:19:27,840 --> 00:19:31,740
+your wheels should be either straight
+
+471
+00:19:30,179 --> 00:19:33,539
+to your body parallel to your body or
+
+472
+00:19:31,740 --> 00:19:35,820
+leading to all your body the only
+
+473
+00:19:33,539 --> 00:19:40,140
+situation where negative camber is
+
+474
+00:19:35,820 --> 00:19:42,660
+acceptable is in your front leading
+
+475
+00:19:40,140 --> 00:19:45,600
+wheel for example at full lock you can
+
+476
+00:19:42,660 --> 00:19:48,480
+see my front leading wheel here has a
+
+477
+00:19:45,600 --> 00:19:51,840
+negative camber
+
+478
+00:19:48,480 --> 00:19:54,120
+now the way I do it is at the beginning
+
+479
+00:19:51,840 --> 00:19:56,400
+I start with zero all around all my
+
+480
+00:19:54,120 --> 00:19:59,400
+wheels I place them or I adjust them to
+
+481
+00:19:56,400 --> 00:20:01,500
+be vertical or parallel to my body then
+
+482
+00:19:59,400 --> 00:20:04,260
+I test drive my assessing the whole
+
+483
+00:20:01,500 --> 00:20:08,460
+concept of camber is to gain traction or
+
+484
+00:20:04,260 --> 00:20:11,539
+to lose traction see at vertical sitting
+
+485
+00:20:08,460 --> 00:20:14,760
+that means your tire is maintaining full
+
+486
+00:20:11,539 --> 00:20:17,460
+patch contact that means your tire is at
+
+487
+00:20:14,760 --> 00:20:21,360
+highest grip state or this is the
+
+488
+00:20:17,460 --> 00:20:23,880
+grippiest contact or the grippiest uh
+
+489
+00:20:21,360 --> 00:20:26,940
+Jackson you can get from your tires now
+
+490
+00:20:23,880 --> 00:20:29,460
+if I go just drive my car and I find it
+
+491
+00:20:26,940 --> 00:20:31,860
+that it's hard to lose traction to
+
+492
+00:20:29,460 --> 00:20:34,140
+initiate your drift I meaning I have to
+
+493
+00:20:31,860 --> 00:20:36,600
+really hit my throttle just to get my
+
+494
+00:20:34,140 --> 00:20:39,720
+rear end to swing that means I have too
+
+495
+00:20:36,600 --> 00:20:42,780
+much traction in the back so I start by
+
+496
+00:20:39,720 --> 00:20:45,600
+adding more camber slightly then I test
+
+497
+00:20:42,780 --> 00:20:47,400
+drive and then add a test drive and so
+
+498
+00:20:45,600 --> 00:20:50,580
+on until I feel comfortable with my
+
+499
+00:20:47,400 --> 00:20:53,880
+chassis I I became Miami until you get
+
+500
+00:20:50,580 --> 00:20:56,640
+to the point that it's predictable and
+
+501
+00:20:53,880 --> 00:20:58,679
+easy to initiate your drift and then you
+
+502
+00:20:56,640 --> 00:21:03,059
+stay at that angle regardless of what
+
+503
+00:20:58,679 --> 00:21:05,880
+angle 0 1 2 3 usually we don't go beyond
+
+504
+00:21:03,059 --> 00:21:08,340
+three three degrees camber
+
+505
+00:21:05,880 --> 00:21:10,320
+but that's how I do it for the rear now
+
+506
+00:21:08,340 --> 00:21:13,799
+in the front it's little bit different
+
+507
+00:21:10,320 --> 00:21:16,679
+because the point of camber in the front
+
+508
+00:21:13,799 --> 00:21:19,080
+not only traction but traction during
+
+509
+00:21:16,679 --> 00:21:21,360
+rotation during full lock and the way I
+
+510
+00:21:19,080 --> 00:21:22,740
+do it is I try
+
+511
+00:21:21,360 --> 00:21:25,860
+to achieve
+
+512
+00:21:22,740 --> 00:21:28,559
+maximum contact during full lock
+
+513
+00:21:25,860 --> 00:21:29,880
+in one of five wheels at least so in
+
+514
+00:21:28,559 --> 00:21:33,200
+case
+
+515
+00:21:29,880 --> 00:21:33,200
+let's see the xrx
+
+516
+00:21:33,240 --> 00:21:39,900
+for example here
+
+517
+00:21:36,240 --> 00:21:42,059
+at full lock you can see I managed to
+
+518
+00:21:39,900 --> 00:21:43,620
+get full contact on my leading wheel my
+
+519
+00:21:42,059 --> 00:21:47,460
+trailing wheel slightly lifting off the
+
+520
+00:21:43,620 --> 00:21:50,100
+ground it has positive camber but my
+
+521
+00:21:47,460 --> 00:21:52,500
+leading wheel almost almost has zero
+
+522
+00:21:50,100 --> 00:21:55,679
+camber and the way to to visualize it or
+
+523
+00:21:52,500 --> 00:21:57,960
+to to say that you have that is by
+
+524
+00:21:55,679 --> 00:21:59,880
+holding your chassis against a flat
+
+525
+00:21:57,960 --> 00:22:01,679
+surface like this and you can see I have
+
+526
+00:21:59,880 --> 00:22:03,059
+full contact here and if you can see in
+
+527
+00:22:01,679 --> 00:22:06,299
+the back there there's a point contact
+
+528
+00:22:03,059 --> 00:22:08,700
+so this tire maintains full grip at full
+
+529
+00:22:06,299 --> 00:22:11,220
+lock and this is what controls my
+
+530
+00:22:08,700 --> 00:22:13,559
+direction of motion
+
+531
+00:22:11,220 --> 00:22:16,559
+now after you finish your camber the
+
+532
+00:22:13,559 --> 00:22:18,240
+next step for me is to set up my toe if
+
+533
+00:22:16,559 --> 00:22:20,760
+you don't know what toe is it's the
+
+534
+00:22:18,240 --> 00:22:23,280
+relationship between each wheel the
+
+535
+00:22:20,760 --> 00:22:25,440
+front together and the rear together so
+
+536
+00:22:23,280 --> 00:22:28,140
+for example if my wheels are parallel to
+
+537
+00:22:25,440 --> 00:22:30,059
+each other this is called a zero tall
+
+538
+00:22:28,140 --> 00:22:31,740
+if they started to lean toward each
+
+539
+00:22:30,059 --> 00:22:33,960
+other from the front it's called
+
+540
+00:22:31,740 --> 00:22:35,580
+positive tool and it goes the opposite
+
+541
+00:22:33,960 --> 00:22:36,840
+direction it's called negative two now
+
+542
+00:22:35,580 --> 00:22:39,659
+in the rear you have the option of
+
+543
+00:22:36,840 --> 00:22:41,820
+running either parallel which is zero or
+
+544
+00:22:39,659 --> 00:22:44,039
+you can run positive one degree two
+
+545
+00:22:41,820 --> 00:22:46,020
+degree Three Degree up to you and the
+
+546
+00:22:44,039 --> 00:22:47,400
+front you have extra options you can run
+
+547
+00:22:46,020 --> 00:22:49,799
+it either zero
+
+548
+00:22:47,400 --> 00:22:51,780
+you can run it negative meaning leaning
+
+549
+00:22:49,799 --> 00:22:54,000
+to it sorry a positive meaning leaning
+
+550
+00:22:51,780 --> 00:22:56,159
+toward each other or you can run it
+
+551
+00:22:54,000 --> 00:22:58,559
+negative pointing away from each other
+
+552
+00:22:56,159 --> 00:23:01,500
+let's talk about the video first what's
+
+553
+00:22:58,559 --> 00:23:02,820
+the the functionality of of the toe and
+
+554
+00:23:01,500 --> 00:23:05,940
+there's a debate when it comes to the
+
+555
+00:23:02,820 --> 00:23:08,159
+rear uh most guys in in the 110
+
+556
+00:23:05,940 --> 00:23:11,340
+Community they prefer to run parallel
+
+557
+00:23:08,159 --> 00:23:13,500
+and some of them prefer to run toe n and
+
+558
+00:23:11,340 --> 00:23:16,260
+the the concept behind that for example
+
+559
+00:23:13,500 --> 00:23:17,340
+let's say you started to initiate your
+
+560
+00:23:16,260 --> 00:23:19,500
+drift
+
+561
+00:23:17,340 --> 00:23:22,320
+to the side to the right side now your
+
+562
+00:23:19,500 --> 00:23:24,480
+rear end is already swinging and at the
+
+563
+00:23:22,320 --> 00:23:26,220
+same time you're counter steering to
+
+564
+00:23:24,480 --> 00:23:28,080
+catch your rear end from
+
+565
+00:23:26,220 --> 00:23:31,820
+spinning beyond your front wheel and
+
+566
+00:23:28,080 --> 00:23:31,820
+spinning out so at this point
+
+567
+00:23:31,860 --> 00:23:36,900
+this end is going front and if your real
+
+568
+00:23:34,700 --> 00:23:39,179
+rear tires that give me something
+
+569
+00:23:36,900 --> 00:23:40,919
+straight let's say this is the direction
+
+570
+00:23:39,179 --> 00:23:43,039
+of your rear tires they're pointing this
+
+571
+00:23:40,919 --> 00:23:46,260
+way if you rear tires at this position
+
+572
+00:23:43,039 --> 00:23:47,760
+it's easier for you to spin out but if
+
+573
+00:23:46,260 --> 00:23:50,700
+you're leading
+
+574
+00:23:47,760 --> 00:23:54,140
+rear wheel is slightly toe and meaning
+
+575
+00:23:50,700 --> 00:23:54,140
+pushing to that direction
+
+576
+00:23:55,020 --> 00:23:58,520
+let me get the camera right sorry
+
+577
+00:23:58,919 --> 00:24:03,780
+if you're real a real leading wheel this
+
+578
+00:24:02,220 --> 00:24:05,820
+wheel which are we are drifting on this
+
+579
+00:24:03,780 --> 00:24:08,159
+direction if this wheel is not pointing
+
+580
+00:24:05,820 --> 00:24:10,559
+straight but slightly leaning inward to
+
+581
+00:24:08,159 --> 00:24:13,620
+end that means this wheel will counter
+
+582
+00:24:10,559 --> 00:24:15,600
+at the action of the spin so it will
+
+583
+00:24:13,620 --> 00:24:17,400
+stabilize your rear end from spinning
+
+584
+00:24:15,600 --> 00:24:19,440
+out and it will make it easier for you
+
+585
+00:24:17,400 --> 00:24:22,500
+to hold your drift without spinning out
+
+586
+00:24:19,440 --> 00:24:23,340
+to me I prefer to have my rear toes set
+
+587
+00:24:22,500 --> 00:24:24,900
+to 3
+
+588
+00:24:23,340 --> 00:24:28,140
+3 but it's different from player to
+
+589
+00:24:24,900 --> 00:24:32,100
+player so I start in every chassis with
+
+590
+00:24:28,140 --> 00:24:34,200
+zero and I tried the slide I add add
+
+591
+00:24:32,100 --> 00:24:35,640
+more angles more to n until I feel
+
+592
+00:24:34,200 --> 00:24:39,059
+comfortable and you should do the same
+
+593
+00:24:35,640 --> 00:24:40,380
+this is for the year now for the front
+
+594
+00:24:39,059 --> 00:24:43,980
+you have
+
+595
+00:24:40,380 --> 00:24:47,340
+different angle you can go to n zero or
+
+596
+00:24:43,980 --> 00:24:50,700
+toe out and that the idea behind that in
+
+597
+00:24:47,340 --> 00:24:53,460
+the front is not just to counteract the
+
+598
+00:24:50,700 --> 00:24:56,100
+direct angle is to
+
+599
+00:24:53,460 --> 00:24:59,340
+shape your steering geometry the way you
+
+600
+00:24:56,100 --> 00:25:01,200
+like it for example if I have
+
+601
+00:24:59,340 --> 00:25:03,299
+let me get another chassis easier to
+
+602
+00:25:01,200 --> 00:25:05,700
+show for example the trz
+
+603
+00:25:03,299 --> 00:25:08,820
+if I have for example here if you see a
+
+604
+00:25:05,700 --> 00:25:11,700
+half slightly negative toe negative
+
+605
+00:25:08,820 --> 00:25:14,640
+minus one actually so the reason for
+
+606
+00:25:11,700 --> 00:25:16,880
+that if I have negative 2 during full
+
+607
+00:25:14,640 --> 00:25:16,880
+lock
+
+608
+00:25:17,700 --> 00:25:20,820
+I will get something called parallel
+
+609
+00:25:19,320 --> 00:25:23,940
+Ackerman we'll talk about that later
+
+610
+00:25:20,820 --> 00:25:26,159
+meaning at full lock my two wheels are
+
+611
+00:25:23,940 --> 00:25:28,440
+parallel to each other at this Angle now
+
+612
+00:25:26,159 --> 00:25:30,480
+if I have for example if I don't have
+
+613
+00:25:28,440 --> 00:25:32,159
+this just you know if I have two out
+
+614
+00:25:30,480 --> 00:25:34,919
+which I don't like I never used to I
+
+615
+00:25:32,159 --> 00:25:36,779
+would have to out at the front when I
+
+616
+00:25:34,919 --> 00:25:38,279
+turn at full lock
+
+617
+00:25:36,779 --> 00:25:41,279
+your
+
+618
+00:25:38,279 --> 00:25:42,900
+leading wheel will be almost 90 degree
+
+619
+00:25:41,279 --> 00:25:43,740
+more than this it will be almost like
+
+620
+00:25:42,900 --> 00:25:46,159
+this
+
+621
+00:25:43,740 --> 00:25:48,659
+but your training wheel would be off
+
+622
+00:25:46,159 --> 00:25:52,080
+slightly less angle that you're leading
+
+623
+00:25:48,659 --> 00:25:54,960
+wheel now and if you have it zero it
+
+624
+00:25:52,080 --> 00:25:57,240
+will most likely be the same the way I
+
+625
+00:25:54,960 --> 00:26:01,740
+do it I usually go for either parallel
+
+626
+00:25:57,240 --> 00:26:03,779
+or zero sorry uh one degree two n so I
+
+627
+00:26:01,740 --> 00:26:05,820
+can get Federal acronym at each angle
+
+628
+00:26:03,779 --> 00:26:08,039
+now if you notice here
+
+629
+00:26:05,820 --> 00:26:10,380
+you can see my wheel is rubbing I guess
+
+630
+00:26:08,039 --> 00:26:11,940
+the shot this is not my steering
+
+631
+00:26:10,380 --> 00:26:13,740
+geometry this is not the angle because
+
+632
+00:26:11,940 --> 00:26:15,900
+you're not keeping in mind the weight of
+
+633
+00:26:13,740 --> 00:26:18,480
+the body and the electronics
+
+634
+00:26:15,900 --> 00:26:20,220
+so at full when I when I place it on the
+
+635
+00:26:18,480 --> 00:26:22,260
+ground it will look like this it will
+
+636
+00:26:20,220 --> 00:26:24,179
+still spin freely and that one thing you
+
+637
+00:26:22,260 --> 00:26:27,480
+have to consider also sometimes you go
+
+638
+00:26:24,179 --> 00:26:30,600
+with negative to a front your tire
+
+639
+00:26:27,480 --> 00:26:32,460
+trailing Tire will will turn so much to
+
+640
+00:26:30,600 --> 00:26:34,740
+the point that it drops against the
+
+641
+00:26:32,460 --> 00:26:37,080
+shock so if you have that problem either
+
+642
+00:26:34,740 --> 00:26:40,080
+you have to increase your width or you
+
+643
+00:26:37,080 --> 00:26:43,440
+have to go with a bigger offset wheel or
+
+644
+00:26:40,080 --> 00:26:45,299
+you have to lower your right height
+
+645
+00:26:43,440 --> 00:26:46,860
+for example this is the right high C if
+
+646
+00:26:45,299 --> 00:26:49,200
+I lower the right height the whole
+
+647
+00:26:46,860 --> 00:26:50,760
+steering geometry will change
+
+648
+00:26:49,200 --> 00:26:53,460
+and at this point
+
+649
+00:26:50,760 --> 00:26:55,679
+my tire doesn't even go that far but if
+
+650
+00:26:53,460 --> 00:26:57,480
+I drop it down the tire will go far to
+
+651
+00:26:55,679 --> 00:27:00,600
+the point that it contacts
+
+652
+00:26:57,480 --> 00:27:02,460
+after I'm done with my toe sitting I
+
+653
+00:27:00,600 --> 00:27:04,799
+immediately start adjusting my agreement
+
+654
+00:27:02,460 --> 00:27:06,840
+and by far this is the step where I
+
+655
+00:27:04,799 --> 00:27:10,260
+spend most of my time at when it comes
+
+656
+00:27:06,840 --> 00:27:11,760
+to tuning my sensing I experiment until
+
+657
+00:27:10,260 --> 00:27:14,640
+I find with suits me of course and
+
+658
+00:27:11,760 --> 00:27:16,740
+everybody should do the same and if you
+
+659
+00:27:14,640 --> 00:27:19,320
+are unable to hold your sliding angles
+
+660
+00:27:16,740 --> 00:27:21,900
+for long duration of time then most
+
+661
+00:27:19,320 --> 00:27:24,240
+probably your acne needs more work and
+
+662
+00:27:21,900 --> 00:27:25,860
+if you don't know what Ackerman is it's
+
+663
+00:27:24,240 --> 00:27:28,860
+the relationship between your front
+
+664
+00:27:25,860 --> 00:27:31,260
+wheel throughout the range of motion now
+
+665
+00:27:28,860 --> 00:27:35,100
+at neutral position you can see that you
+
+666
+00:27:31,260 --> 00:27:38,100
+either have zero toe or two n or two out
+
+667
+00:27:35,100 --> 00:27:41,100
+correct now during your motion when you
+
+668
+00:27:38,100 --> 00:27:42,600
+turn your radio or your wheels the
+
+669
+00:27:41,100 --> 00:27:45,919
+relationship between those two wheels
+
+670
+00:27:42,600 --> 00:27:45,919
+it's called Ackerman
+
+671
+00:27:46,980 --> 00:27:51,480
+now when it comes to Ackerman you have
+
+672
+00:27:49,140 --> 00:27:54,000
+three options that you can run your
+
+673
+00:27:51,480 --> 00:27:57,659
+chassis option number one is positive
+
+674
+00:27:54,000 --> 00:28:00,419
+Acumen which means at foot lock
+
+675
+00:27:57,659 --> 00:28:02,279
+your leading wheel has more steering
+
+676
+00:28:00,419 --> 00:28:05,640
+lock than your trailing wheel just like
+
+677
+00:28:02,279 --> 00:28:08,159
+this and most of drifters run this
+
+678
+00:28:05,640 --> 00:28:10,740
+option it makes sense because this is
+
+679
+00:28:08,159 --> 00:28:13,500
+the option at which your car is most
+
+680
+00:28:10,740 --> 00:28:16,200
+Nimble at meaning at this option you
+
+681
+00:28:13,500 --> 00:28:19,020
+have the ability or ease of switching
+
+682
+00:28:16,200 --> 00:28:21,960
+from side to side in case if you have a
+
+683
+00:28:19,020 --> 00:28:23,580
+course with a lot of turns and angles so
+
+684
+00:28:21,960 --> 00:28:26,820
+this is option number one option number
+
+685
+00:28:23,580 --> 00:28:29,400
+two is to run a parallel Ackerman which
+
+686
+00:28:26,820 --> 00:28:31,080
+means that your wheels at full lock are
+
+687
+00:28:29,400 --> 00:28:32,820
+parallel to each other
+
+688
+00:28:31,080 --> 00:28:35,760
+and this is the option that you should
+
+689
+00:28:32,820 --> 00:28:38,460
+run if you have a course which has list
+
+690
+00:28:35,760 --> 00:28:40,679
+tracks oh sorry listeners but long
+
+691
+00:28:38,460 --> 00:28:42,480
+sweeping angles so you have you want to
+
+692
+00:28:40,679 --> 00:28:44,520
+have the ability to hold your angle for
+
+693
+00:28:42,480 --> 00:28:46,200
+a long duration of time this is the best
+
+694
+00:28:44,520 --> 00:28:48,299
+option for you also if you want to grab
+
+695
+00:28:46,200 --> 00:28:50,460
+walk this is the best option for you and
+
+696
+00:28:48,299 --> 00:28:52,860
+there's the last option which is a
+
+697
+00:28:50,460 --> 00:28:54,900
+reverse acronym or known as negative
+
+698
+00:28:52,860 --> 00:28:57,539
+acronym also which means the opposite
+
+699
+00:28:54,900 --> 00:29:00,840
+your leading wheel has more angle lock
+
+700
+00:28:57,539 --> 00:29:03,480
+than your trailing wheel and this is the
+
+701
+00:29:00,840 --> 00:29:05,159
+easiest setup to crap up
+
+702
+00:29:03,480 --> 00:29:06,900
+from the beginning if you have no
+
+703
+00:29:05,159 --> 00:29:08,880
+experience with the cap walking this is
+
+704
+00:29:06,900 --> 00:29:10,440
+the easiest setup to grab work but keep
+
+705
+00:29:08,880 --> 00:29:12,179
+in mind because this angle is different
+
+706
+00:29:10,440 --> 00:29:14,880
+than this angle they will fight each
+
+707
+00:29:12,179 --> 00:29:17,700
+other and you will lose speed you'll be
+
+708
+00:29:14,880 --> 00:29:19,080
+able to carpool that slowly and if you
+
+709
+00:29:17,700 --> 00:29:20,880
+have a small track it's not a big
+
+710
+00:29:19,080 --> 00:29:22,919
+problem but for longer track you will
+
+711
+00:29:20,880 --> 00:29:24,240
+hold the whole traffic behind you now
+
+712
+00:29:22,919 --> 00:29:26,279
+here where it gets a little bit
+
+713
+00:29:24,240 --> 00:29:28,200
+confusing before you go on and start
+
+714
+00:29:26,279 --> 00:29:31,020
+adjusting your Ackerman you need to know
+
+715
+00:29:28,200 --> 00:29:32,640
+that Ackerman adjustment is sensitive to
+
+716
+00:29:31,020 --> 00:29:34,679
+six factors
+
+717
+00:29:32,640 --> 00:29:35,820
+the first factor is your steering
+
+718
+00:29:34,679 --> 00:29:38,760
+assembly
+
+719
+00:29:35,820 --> 00:29:42,899
+then your track width your right height
+
+720
+00:29:38,760 --> 00:29:44,399
+your toe your caster and the level the
+
+721
+00:29:42,899 --> 00:29:46,440
+vertical distance or the vertical
+
+722
+00:29:44,399 --> 00:29:48,120
+difference between your steering
+
+723
+00:29:46,440 --> 00:29:50,100
+assembly and your knuckles
+
+724
+00:29:48,120 --> 00:29:52,320
+so steering system what does that mean
+
+725
+00:29:50,100 --> 00:29:55,140
+or a steering assembly simply it means
+
+726
+00:29:52,320 --> 00:29:57,179
+the way that your Servo is connected to
+
+727
+00:29:55,140 --> 00:29:59,279
+your front wheels and as of now there
+
+728
+00:29:57,179 --> 00:30:01,500
+are three systems in the market the
+
+729
+00:29:59,279 --> 00:30:03,720
+first one which is my favorite it's the
+
+730
+00:30:01,500 --> 00:30:06,600
+direct connection meaning your wheels
+
+731
+00:30:03,720 --> 00:30:08,940
+are connected via VIA your steering
+
+732
+00:30:06,600 --> 00:30:10,740
+links directly to your Servo horn a
+
+733
+00:30:08,940 --> 00:30:12,419
+t-shaped Servo horn this is number one
+
+734
+00:30:10,740 --> 00:30:15,000
+number two there's something called
+
+735
+00:30:12,419 --> 00:30:18,059
+sliding rack either curved sliding Rack
+
+736
+00:30:15,000 --> 00:30:20,580
+or flat or straight sliding rack and in
+
+737
+00:30:18,059 --> 00:30:23,880
+this situation you have your Servo with
+
+738
+00:30:20,580 --> 00:30:25,980
+your Servo horn connected to a metal bar
+
+739
+00:30:23,880 --> 00:30:28,440
+this bar is sandwiched between ball
+
+740
+00:30:25,980 --> 00:30:30,840
+bearing and then it connects to your
+
+741
+00:30:28,440 --> 00:30:33,960
+steering links to your wheels
+
+742
+00:30:30,840 --> 00:30:36,480
+like the this is the GLD same system as
+
+743
+00:30:33,960 --> 00:30:40,799
+the xrx also same principle same concept
+
+744
+00:30:36,480 --> 00:30:43,320
+and the flat steering rack is like the
+
+745
+00:30:40,799 --> 00:30:45,779
+Geo the B embracing Dr Z1 there is a
+
+746
+00:30:43,320 --> 00:30:48,600
+rack seems similar to the drg and xrx RX
+
+747
+00:30:45,779 --> 00:30:50,760
+but it's a flat track straight rack same
+
+748
+00:30:48,600 --> 00:30:52,740
+concept and then the third option
+
+749
+00:30:50,760 --> 00:30:55,559
+available in the market right now it's
+
+750
+00:30:52,740 --> 00:30:58,080
+called buildcrank it's a t-shaped plate
+
+751
+00:30:55,559 --> 00:31:00,779
+which are screwed which is screwed over
+
+752
+00:30:58,080 --> 00:31:02,700
+your body the base plate of your body uh
+
+753
+00:31:00,779 --> 00:31:05,760
+via ball bearing
+
+754
+00:31:02,700 --> 00:31:07,440
+and then on each side it's connected up
+
+755
+00:31:05,760 --> 00:31:09,240
+front to your steering link to your
+
+756
+00:31:07,440 --> 00:31:11,760
+wheels and in the middle it has a ball
+
+757
+00:31:09,240 --> 00:31:13,679
+ball link which connects your Servo horn
+
+758
+00:31:11,760 --> 00:31:16,700
+just like this
+
+759
+00:31:13,679 --> 00:31:16,700
+it's called buildcrank
+
+760
+00:31:17,039 --> 00:31:21,840
+and this is this is four wheel drive AMZ
+
+761
+00:31:19,140 --> 00:31:23,460
+and this system is the system that I
+
+762
+00:31:21,840 --> 00:31:27,419
+least like actually I hate the system
+
+763
+00:31:23,460 --> 00:31:30,240
+because it it has a tendency for
+
+764
+00:31:27,419 --> 00:31:33,120
+vertical movement or vertical wiggling
+
+765
+00:31:30,240 --> 00:31:34,799
+in your steering link itself
+
+766
+00:31:33,120 --> 00:31:37,080
+unlike
+
+767
+00:31:34,799 --> 00:31:38,340
+the ball bearing sliding rack the rack
+
+768
+00:31:37,080 --> 00:31:40,799
+is already sandwiched between ball
+
+769
+00:31:38,340 --> 00:31:43,860
+bearings so there's no movement other
+
+770
+00:31:40,799 --> 00:31:44,760
+than side to side very very stable and
+
+771
+00:31:43,860 --> 00:31:46,860
+uh
+
+772
+00:31:44,760 --> 00:31:50,700
+this system in my opinion in the market
+
+773
+00:31:46,860 --> 00:31:53,399
+is the direct connection because direct
+
+774
+00:31:50,700 --> 00:31:57,240
+connection system allows the designer to
+
+775
+00:31:53,399 --> 00:31:59,039
+have a sliding Servo Mount which simply
+
+776
+00:31:57,240 --> 00:32:01,679
+will adjust your agreement without any
+
+777
+00:31:59,039 --> 00:32:03,600
+headache now the second factor to
+
+778
+00:32:01,679 --> 00:32:06,179
+consider when you are adjusting your
+
+779
+00:32:03,600 --> 00:32:07,860
+Ackerman is your front track width now
+
+780
+00:32:06,179 --> 00:32:09,899
+if you are planning to run a positive
+
+781
+00:32:07,860 --> 00:32:12,179
+Ackerman you have no problem you're
+
+782
+00:32:09,899 --> 00:32:14,100
+attracted you can run any any width you
+
+783
+00:32:12,179 --> 00:32:16,080
+want and you will get positive Ackerman
+
+784
+00:32:14,100 --> 00:32:17,640
+with no issues but if you are planning
+
+785
+00:32:16,080 --> 00:32:20,220
+to go for a parallel agreement or
+
+786
+00:32:17,640 --> 00:32:22,140
+reverse acronym negative Ackerman then
+
+787
+00:32:20,220 --> 00:32:25,620
+you should your trackpad will come to
+
+788
+00:32:22,140 --> 00:32:29,220
+play in the sense for example
+
+789
+00:32:25,620 --> 00:32:31,020
+this is white setting even then if you
+
+790
+00:32:29,220 --> 00:32:33,179
+can see here my wheel is dropping
+
+791
+00:32:31,020 --> 00:32:35,520
+against the shock so in that case you
+
+792
+00:32:33,179 --> 00:32:37,679
+have to run a wider frontal track width
+
+793
+00:32:35,520 --> 00:32:39,960
+so as you can get clearance at full lock
+
+794
+00:32:37,679 --> 00:32:41,279
+without your wheel rubbing the shock if
+
+795
+00:32:39,960 --> 00:32:44,399
+you restart rubbing the shock
+
+796
+00:32:41,279 --> 00:32:46,500
+immediately it will push this wheel into
+
+797
+00:32:44,399 --> 00:32:49,500
+a halt and you will spin out immediately
+
+798
+00:32:46,500 --> 00:32:50,820
+the third factor to consider is the
+
+799
+00:32:49,500 --> 00:32:53,340
+right height
+
+800
+00:32:50,820 --> 00:32:56,399
+now for example this car is tuned
+
+801
+00:32:53,340 --> 00:32:58,200
+perfectly parallel Ackerman okay and if
+
+802
+00:32:56,399 --> 00:33:00,179
+you take a look here
+
+803
+00:32:58,200 --> 00:33:01,919
+you'll notice this this wheel the
+
+804
+00:33:00,179 --> 00:33:04,440
+leading the trailing wheel is already
+
+805
+00:33:01,919 --> 00:33:06,419
+rubbing against the shock because this
+
+806
+00:33:04,440 --> 00:33:08,820
+is not my right height you have to
+
+807
+00:33:06,419 --> 00:33:10,919
+consider your electronics I mean in that
+
+808
+00:33:08,820 --> 00:33:13,019
+case my battery and my body which will
+
+809
+00:33:10,919 --> 00:33:15,240
+in turn push the front little bit so
+
+810
+00:33:13,019 --> 00:33:17,580
+let's see now it's rubbing
+
+811
+00:33:15,240 --> 00:33:19,440
+a little bit pressure
+
+812
+00:33:17,580 --> 00:33:21,419
+this will be easier
+
+813
+00:33:19,440 --> 00:33:24,980
+you hear now it's rubbing with why apply
+
+814
+00:33:21,419 --> 00:33:24,980
+a little bit pressure see what happens
+
+815
+00:33:25,620 --> 00:33:30,000
+this is my right height so at full lock
+
+816
+00:33:27,840 --> 00:33:31,260
+I have no problem with my tire rubbing
+
+817
+00:33:30,000 --> 00:33:33,240
+against the shock
+
+818
+00:33:31,260 --> 00:33:36,480
+now the fourth factor that comes into
+
+819
+00:33:33,240 --> 00:33:39,419
+play is your tone which means your
+
+820
+00:33:36,480 --> 00:33:41,640
+steering links length themselves before
+
+821
+00:33:39,419 --> 00:33:44,460
+the steps before I started this step
+
+822
+00:33:41,640 --> 00:33:46,919
+usually I just install my wheels with no
+
+823
+00:33:44,460 --> 00:33:49,559
+steering links and I cannot rotate them
+
+824
+00:33:46,919 --> 00:33:51,840
+forth and back to see if I have an issue
+
+825
+00:33:49,559 --> 00:33:55,080
+clearing my shock in my trailing wheel
+
+826
+00:33:51,840 --> 00:33:57,779
+or creating my lower body plate in my
+
+827
+00:33:55,080 --> 00:34:00,059
+leading wheel after that I pre-measured
+
+828
+00:33:57,779 --> 00:34:02,000
+the distance between the ball link of
+
+829
+00:34:00,059 --> 00:34:05,279
+the knuckle and the steering assembly
+
+830
+00:34:02,000 --> 00:34:07,559
+mimic that into my steering legs itself
+
+831
+00:34:05,279 --> 00:34:09,980
+and install them to to check the
+
+832
+00:34:07,559 --> 00:34:15,179
+clearance if it works or not and usually
+
+833
+00:34:09,980 --> 00:34:17,520
+if you have your link sitting at the toe
+
+834
+00:34:15,179 --> 00:34:19,800
+out in neutral position that means you
+
+835
+00:34:17,520 --> 00:34:23,399
+will get a positive agreement at full
+
+836
+00:34:19,800 --> 00:34:25,859
+lock like this and if you have your toe
+
+837
+00:34:23,399 --> 00:34:28,320
+zero just like my car here slightly
+
+838
+00:34:25,859 --> 00:34:30,060
+actually it's a positive slight positive
+
+839
+00:34:28,320 --> 00:34:31,080
+but because this is not my setup my
+
+840
+00:34:30,060 --> 00:34:33,780
+setup
+
+841
+00:34:31,080 --> 00:34:36,060
+when I squat my car a little bit more
+
+842
+00:34:33,780 --> 00:34:38,220
+likely close to parallel so that's the
+
+843
+00:34:36,060 --> 00:34:40,320
+thing at full lock
+
+844
+00:34:38,220 --> 00:34:42,599
+I'll get better agreement and if you go
+
+845
+00:34:40,320 --> 00:34:44,339
+the opposite direction which is toe and
+
+846
+00:34:42,599 --> 00:34:46,859
+at neutral
+
+847
+00:34:44,339 --> 00:34:49,800
+that means you'll get reverse acronym
+
+848
+00:34:46,859 --> 00:34:52,200
+meaning your
+
+849
+00:34:49,800 --> 00:34:53,820
+your trading wheel will be at more angle
+
+850
+00:34:52,200 --> 00:34:55,740
+than your leading wheel
+
+851
+00:34:53,820 --> 00:34:59,099
+now the fifth factor that can affect
+
+852
+00:34:55,740 --> 00:35:01,140
+your Ackerman setup is your Caster value
+
+853
+00:34:59,099 --> 00:35:03,599
+and what I mean by that is the
+
+854
+00:35:01,140 --> 00:35:05,640
+horizontal relationship means fourth or
+
+855
+00:35:03,599 --> 00:35:07,740
+back the relationship between your
+
+856
+00:35:05,640 --> 00:35:10,200
+steering assembly and your knuckle this
+
+857
+00:35:07,740 --> 00:35:12,240
+is the xrx take a look at the ball Link
+
+858
+00:35:10,200 --> 00:35:14,280
+at the steering assembly here and the
+
+859
+00:35:12,240 --> 00:35:16,560
+ball Link at the knuckle you can see
+
+860
+00:35:14,280 --> 00:35:19,079
+they're almost at the same angle or
+
+861
+00:35:16,560 --> 00:35:22,079
+parallel to each other at same line
+
+862
+00:35:19,079 --> 00:35:24,119
+now if this ball link
+
+863
+00:35:22,079 --> 00:35:25,320
+at the knuckle we're positioned a little
+
+864
+00:35:24,119 --> 00:35:27,540
+bit back
+
+865
+00:35:25,320 --> 00:35:29,760
+or a little bit fourth the whole
+
+866
+00:35:27,540 --> 00:35:31,980
+Ackerman geometry will change for
+
+867
+00:35:29,760 --> 00:35:35,460
+example let's take a car that has an an
+
+868
+00:35:31,980 --> 00:35:38,460
+easy Caster adjustment yes yeah the GLD
+
+869
+00:35:35,460 --> 00:35:40,859
+for example take a look at my toe at
+
+870
+00:35:38,460 --> 00:35:42,480
+maximum Caster keep in mind the steering
+
+871
+00:35:40,859 --> 00:35:44,940
+link has not changed I did not play with
+
+872
+00:35:42,480 --> 00:35:47,700
+my steer link but I increased my Caster
+
+873
+00:35:44,940 --> 00:35:51,960
+so at this position I have a 12. now if
+
+874
+00:35:47,700 --> 00:35:54,480
+I decrease my Caster watch my wheels
+
+875
+00:35:51,960 --> 00:35:56,160
+my toe will change
+
+876
+00:35:54,480 --> 00:35:57,540
+let's take something more clear for
+
+877
+00:35:56,160 --> 00:35:59,040
+example
+
+878
+00:35:57,540 --> 00:36:02,280
+the DK
+
+879
+00:35:59,040 --> 00:36:05,240
+same concept if I go Max caster
+
+880
+00:36:02,280 --> 00:36:05,240
+watch my toe
+
+881
+00:36:05,640 --> 00:36:08,480
+see the difference
+
+882
+00:36:09,900 --> 00:36:13,619
+and again
+
+883
+00:36:11,520 --> 00:36:16,740
+the trc2
+
+884
+00:36:13,619 --> 00:36:21,200
+this is the Caster screw for the trc2 if
+
+885
+00:36:16,740 --> 00:36:21,200
+I change my Caster take a look at my toe
+
+886
+00:36:26,700 --> 00:36:31,980
+so when you change your Caster your toe
+
+887
+00:36:29,880 --> 00:36:34,440
+will change at neutral position which
+
+888
+00:36:31,980 --> 00:36:35,400
+means it will change your accurate at
+
+889
+00:36:34,440 --> 00:36:38,220
+full lock
+
+890
+00:36:35,400 --> 00:36:40,260
+now the last factor to look out for when
+
+891
+00:36:38,220 --> 00:36:41,640
+you adjusting your Ackerman is the
+
+892
+00:36:40,260 --> 00:36:43,920
+vertical relationship between your
+
+893
+00:36:41,640 --> 00:36:46,440
+steering assembly and your knuckle and
+
+894
+00:36:43,920 --> 00:36:47,820
+what I mean by that is take a look at
+
+895
+00:36:46,440 --> 00:36:49,619
+the Bold link
+
+896
+00:36:47,820 --> 00:36:51,780
+at my steering assembly and the bone
+
+897
+00:36:49,619 --> 00:36:54,960
+Link at my knuckle see the difference in
+
+898
+00:36:51,780 --> 00:36:56,579
+level if this level change say to this
+
+899
+00:36:54,960 --> 00:37:00,359
+point if I push my arm a little bit
+
+900
+00:36:56,579 --> 00:37:02,400
+higher if this level change
+
+901
+00:37:00,359 --> 00:37:04,980
+it will affect my Ackerman and the way
+
+902
+00:37:02,400 --> 00:37:07,640
+to see this is to place your chassis at
+
+903
+00:37:04,980 --> 00:37:07,640
+a flat surface
+
+904
+00:37:07,859 --> 00:37:12,300
+and now take a look at my trailing wheel
+
+905
+00:37:09,660 --> 00:37:15,180
+the down wheel here if I reduce my right
+
+906
+00:37:12,300 --> 00:37:17,579
+height meaning I pushed my front car
+
+907
+00:37:15,180 --> 00:37:19,760
+down see what happens to my trailing
+
+908
+00:37:17,579 --> 00:37:19,760
+wheel
+
+909
+00:37:24,119 --> 00:37:29,280
+that's why before I start anything any
+
+910
+00:37:26,940 --> 00:37:31,740
+adjustment at all in my chassis the
+
+911
+00:37:29,280 --> 00:37:33,780
+first thing I set is my right height
+
+912
+00:37:31,740 --> 00:37:35,640
+another question I get a lot of times
+
+913
+00:37:33,780 --> 00:37:38,760
+regarding
+
+914
+00:37:35,640 --> 00:37:42,260
+stealing geometry is why do I bend my
+
+915
+00:37:38,760 --> 00:37:44,820
+steering links or when should you do it
+
+916
+00:37:42,260 --> 00:37:48,180
+if you have a car
+
+917
+00:37:44,820 --> 00:37:51,359
+that has a fixed Servo Mount and you are
+
+918
+00:37:48,180 --> 00:37:53,880
+running a front wide track and at the
+
+919
+00:37:51,359 --> 00:37:56,339
+same time you want to have a parallel
+
+920
+00:37:53,880 --> 00:37:58,140
+Ackerman without sacrificing your
+
+921
+00:37:56,339 --> 00:38:00,359
+maximum steering lock this is the
+
+922
+00:37:58,140 --> 00:38:03,540
+situation where you need to bend your
+
+923
+00:38:00,359 --> 00:38:06,420
+steering links for example let's take a
+
+924
+00:38:03,540 --> 00:38:09,240
+look at this the BM bracing DRZ for
+
+925
+00:38:06,420 --> 00:38:12,020
+example imagine if I'm let me get
+
+926
+00:38:09,240 --> 00:38:12,020
+something pointy
+
+927
+00:38:12,119 --> 00:38:18,000
+imagine if I'm running a straight
+
+928
+00:38:15,300 --> 00:38:20,540
+standard straight steering links at
+
+929
+00:38:18,000 --> 00:38:20,540
+certain point
+
+930
+00:38:21,660 --> 00:38:26,820
+the link itself because it's straight it
+
+931
+00:38:24,599 --> 00:38:30,000
+will Jam against the knuckle so this is
+
+932
+00:38:26,820 --> 00:38:32,280
+the maximum steering if I am if I was
+
+933
+00:38:30,000 --> 00:38:34,079
+running a straight steel link because at
+
+934
+00:38:32,280 --> 00:38:36,599
+this point the ceiling link again it
+
+935
+00:38:34,079 --> 00:38:40,020
+will rub and jam against your knuckle
+
+936
+00:38:36,599 --> 00:38:42,720
+itself so to get the maximum Ackerman or
+
+937
+00:38:40,020 --> 00:38:45,720
+parallel Ackerman at this setting I will
+
+938
+00:38:42,720 --> 00:38:47,880
+have to run my
+
+939
+00:38:45,720 --> 00:38:51,359
+leading wheel at this position so this
+
+940
+00:38:47,880 --> 00:38:53,460
+will be my maximum steering lock with
+
+941
+00:38:51,359 --> 00:38:55,440
+straight steering Link at parallel
+
+942
+00:38:53,460 --> 00:38:57,660
+Ackerman which is still good still
+
+943
+00:38:55,440 --> 00:39:01,320
+impressive and it will perform well but
+
+944
+00:38:57,660 --> 00:39:04,560
+what if I want to run maximum
+
+945
+00:39:01,320 --> 00:39:07,560
+lock with parallel Ackerman at this
+
+946
+00:39:04,560 --> 00:39:10,200
+point to clear this point
+
+947
+00:39:07,560 --> 00:39:11,220
+of the knuckle I need to bend it in a
+
+948
+00:39:10,200 --> 00:39:13,800
+way
+
+949
+00:39:11,220 --> 00:39:17,720
+the steering link will wrap around the
+
+950
+00:39:13,800 --> 00:39:17,720
+knuckle without rubbing like this
+
+951
+00:39:20,760 --> 00:39:25,740
+after I'm done with my tuning I install
+
+952
+00:39:23,400 --> 00:39:29,579
+my electronics for the first time
+
+953
+00:39:25,740 --> 00:39:31,380
+my ESC my Servo my gyro everything with
+
+954
+00:39:29,579 --> 00:39:33,720
+the battery on then I mount my body
+
+955
+00:39:31,380 --> 00:39:36,480
+after I mount my body then I start
+
+956
+00:39:33,720 --> 00:39:38,480
+adjusting my suspension what we mean by
+
+957
+00:39:36,480 --> 00:39:41,820
+suspicion is your
+
+958
+00:39:38,480 --> 00:39:43,800
+shock itself the shock position either
+
+959
+00:39:41,820 --> 00:39:45,660
+vertical or horizontal and the type of
+
+960
+00:39:43,800 --> 00:39:48,000
+spring that you'll use medium soft or
+
+961
+00:39:45,660 --> 00:39:50,880
+hard and it all depends on you generally
+
+962
+00:39:48,000 --> 00:39:53,160
+speaking the softer suspension will give
+
+963
+00:39:50,880 --> 00:39:54,480
+you more traction more Tire grip the
+
+964
+00:39:53,160 --> 00:39:57,540
+harder suspension will give you less
+
+965
+00:39:54,480 --> 00:40:01,440
+traction less tire grip and if you are
+
+966
+00:39:57,540 --> 00:40:04,260
+planning to go for a maximum body roll
+
+967
+00:40:01,440 --> 00:40:07,200
+then you need to have a vertical
+
+968
+00:40:04,260 --> 00:40:09,060
+position shocks so a vertical position
+
+969
+00:40:07,200 --> 00:40:11,339
+shock it's the position at which the
+
+970
+00:40:09,060 --> 00:40:12,960
+shock is easier to compress the more
+
+971
+00:40:11,339 --> 00:40:14,880
+angular shock you'll have the more
+
+972
+00:40:12,960 --> 00:40:16,800
+resistant to Vertical compress generally
+
+973
+00:40:14,880 --> 00:40:19,079
+speaking even in one tip
+
+974
+00:40:16,800 --> 00:40:20,520
+and if you want to buy the roll I don't
+
+975
+00:40:19,079 --> 00:40:23,880
+like Body Rolls but if you want to body
+
+976
+00:40:20,520 --> 00:40:27,000
+roll you need to have your Springs soft
+
+977
+00:40:23,880 --> 00:40:29,520
+your shocks at vertical position and you
+
+978
+00:40:27,000 --> 00:40:32,040
+need to mount the most weight at the top
+
+979
+00:40:29,520 --> 00:40:34,200
+plate ESC battery everything if you can
+
+980
+00:40:32,040 --> 00:40:37,079
+mount everything at the top plate so you
+
+981
+00:40:34,200 --> 00:40:40,440
+have a high CG High center of gravity
+
+982
+00:40:37,079 --> 00:40:42,839
+this way when you turn in an angle the
+
+983
+00:40:40,440 --> 00:40:45,660
+higher position of your weight
+
+984
+00:40:42,839 --> 00:40:47,760
+at combined with the softer spring and
+
+985
+00:40:45,660 --> 00:40:49,740
+the vertical position of your shocks it
+
+986
+00:40:47,760 --> 00:40:51,839
+will allow your body to lean on one side
+
+987
+00:40:49,740 --> 00:40:54,300
+than the other side and yet if you want
+
+988
+00:40:51,839 --> 00:40:57,180
+to have a more effect of body roll you
+
+989
+00:40:54,300 --> 00:40:59,280
+need monoshocks just like this of course
+
+990
+00:40:57,180 --> 00:41:01,920
+you need it both front and rear
+
+991
+00:40:59,280 --> 00:41:03,780
+and you can see the effect right away if
+
+992
+00:41:01,920 --> 00:41:06,500
+I press here the car the chassis Will
+
+993
+00:41:03,780 --> 00:41:06,500
+Roll to the other side
+
+994
+00:41:07,380 --> 00:41:12,480
+initially this is the the Monoshock that
+
+995
+00:41:09,780 --> 00:41:14,099
+I got for my xrx I use it with my xrx
+
+996
+00:41:12,480 --> 00:41:16,680
+initially and because
+
+997
+00:41:14,099 --> 00:41:17,820
+I'm using a heavy Die Cast body for my
+
+998
+00:41:16,680 --> 00:41:20,579
+exercise I don't want to change this
+
+999
+00:41:17,820 --> 00:41:23,460
+body it's too much the roll is too much
+
+1000
+00:41:20,579 --> 00:41:25,619
+to the point that when I steer at one
+
+1001
+00:41:23,460 --> 00:41:27,540
+angle I feel that my chassis is dragging
+
+1002
+00:41:25,619 --> 00:41:30,119
+to that angle it's impressive impressive
+
+1003
+00:41:27,540 --> 00:41:31,500
+on video but it's it's not a good
+
+1004
+00:41:30,119 --> 00:41:34,339
+feeling on the radio
+
+1005
+00:41:31,500 --> 00:41:37,560
+so at this point I'm done with my
+
+1006
+00:41:34,339 --> 00:41:40,200
+initial tuning and then I start the
+
+1007
+00:41:37,560 --> 00:41:42,900
+process of fine tuning which takes at
+
+1008
+00:41:40,200 --> 00:41:45,540
+least one month for me to fine tune one
+
+1009
+00:41:42,900 --> 00:41:48,599
+car and the reason for that is even
+
+1010
+00:41:45,540 --> 00:41:50,220
+though my car is set up
+
+1011
+00:41:48,599 --> 00:41:51,839
+at this
+
+1012
+00:41:50,220 --> 00:41:54,119
+level
+
+1013
+00:41:51,839 --> 00:41:57,780
+I don't know exactly how it will handle
+
+1014
+00:41:54,119 --> 00:42:00,780
+on the track so I drive it for few days
+
+1015
+00:41:57,780 --> 00:42:02,700
+and then I start making small adjustment
+
+1016
+00:42:00,780 --> 00:42:04,980
+when I say a small adjustment mean I
+
+1017
+00:42:02,700 --> 00:42:06,720
+will change one thing at a time and test
+
+1018
+00:42:04,980 --> 00:42:08,700
+drive it for at least three battery
+
+1019
+00:42:06,720 --> 00:42:10,800
+packs then make the adjustment another
+
+1020
+00:42:08,700 --> 00:42:12,780
+adjustment and three packs and so on the
+
+1021
+00:42:10,800 --> 00:42:15,599
+reason for that is whenever you make an
+
+1022
+00:42:12,780 --> 00:42:18,420
+adjustment initially it will feel weird
+
+1023
+00:42:15,599 --> 00:42:20,520
+to you the control will feel off not
+
+1024
+00:42:18,420 --> 00:42:22,260
+because the adjustment is bad because
+
+1025
+00:42:20,520 --> 00:42:24,359
+you are not used to it so you have to
+
+1026
+00:42:22,260 --> 00:42:26,760
+give your time you give yourself time
+
+1027
+00:42:24,359 --> 00:42:29,339
+between each adjustment to just to see
+
+1028
+00:42:26,760 --> 00:42:31,560
+if you can adapt to this adjustment if
+
+1029
+00:42:29,339 --> 00:42:34,020
+you can if you can get the right muscle
+
+1030
+00:42:31,560 --> 00:42:36,740
+memory down to control the car at that
+
+1031
+00:42:34,020 --> 00:42:39,540
+sitting and then move to the next
+
+1032
+00:42:36,740 --> 00:42:42,119
+adjustments so it takes time at least a
+
+1033
+00:42:39,540 --> 00:42:45,180
+month for me to to fine tune my car to
+
+1034
+00:42:42,119 --> 00:42:47,520
+be exactly or to to just exactly the way
+
+1035
+00:42:45,180 --> 00:42:49,380
+I like it and there's nothing more
+
+1036
+00:42:47,520 --> 00:42:51,000
+satisfying in this hobby besides
+
+1037
+00:42:49,380 --> 00:42:52,380
+building the car which is fun after
+
+1038
+00:42:51,000 --> 00:42:54,300
+building the car there's nothing more
+
+1039
+00:42:52,380 --> 00:42:56,640
+satisfying in this hobby than to get
+
+1040
+00:42:54,300 --> 00:42:58,500
+your car to drive exactly the way you
+
+1041
+00:42:56,640 --> 00:43:02,700
+want it
+
+1042
+00:42:58,500 --> 00:43:04,200
+electronic wise when it comes to soft or
+
+1043
+00:43:02,700 --> 00:43:07,140
+smooth drifting the most important
+
+1044
+00:43:04,200 --> 00:43:09,480
+things to me are the servo and the
+
+1045
+00:43:07,140 --> 00:43:11,579
+motoring ESC combo Circle you need to
+
+1046
+00:43:09,480 --> 00:43:13,859
+have a good Servo not mediocre a good
+
+1047
+00:43:11,579 --> 00:43:15,119
+Servo don't scam up on your Servo it's
+
+1048
+00:43:13,859 --> 00:43:19,200
+very important
+
+1049
+00:43:15,119 --> 00:43:22,140
+yes sorry gyro wise any mediocre child
+
+1050
+00:43:19,200 --> 00:43:23,940
+will do for me because the function of
+
+1051
+00:43:22,140 --> 00:43:26,579
+the gyro is to assist you not to drive
+
+1052
+00:43:23,940 --> 00:43:30,839
+the car and to me I use all my Gyros at
+
+1053
+00:43:26,579 --> 00:43:34,200
+40 to 50 Max I feel that when I try it
+
+1054
+00:43:30,839 --> 00:43:36,780
+at 70 or 80 percent not because not not
+
+1055
+00:43:34,200 --> 00:43:39,060
+just it will start to Jitter I feel that
+
+1056
+00:43:36,780 --> 00:43:40,740
+it it starts to fight me when I'm
+
+1057
+00:43:39,060 --> 00:43:42,960
+driving I feel that I'm fighting the car
+
+1058
+00:43:40,740 --> 00:43:44,880
+the general is over correcting me when I
+
+1059
+00:43:42,960 --> 00:43:47,640
+don't want any correction it prevents me
+
+1060
+00:43:44,880 --> 00:43:49,319
+from holding uh large angles so I don't
+
+1061
+00:43:47,640 --> 00:43:51,599
+like that feeling this is regarding the
+
+1062
+00:43:49,319 --> 00:43:54,060
+gyro and I always face my gyro at lower
+
+1063
+00:43:51,599 --> 00:43:56,099
+position if possible in all my cars my
+
+1064
+00:43:54,060 --> 00:43:59,819
+gyro is always at the bottom
+
+1065
+00:43:56,099 --> 00:44:01,260
+like so always at the bottom here
+
+1066
+00:43:59,819 --> 00:44:03,900
+Electronics
+
+1067
+00:44:01,260 --> 00:44:06,060
+it's better if you have the money to go
+
+1068
+00:44:03,900 --> 00:44:08,940
+straight for censored system this is the
+
+1069
+00:44:06,060 --> 00:44:10,800
+smooth smooth system that you can get
+
+1070
+00:44:08,940 --> 00:44:13,619
+with a low power because drifting most
+
+1071
+00:44:10,800 --> 00:44:14,819
+fuel drifting is at lower power but it's
+
+1072
+00:44:13,619 --> 00:44:16,980
+not
+
+1073
+00:44:14,819 --> 00:44:18,839
+important per se if you are tight on
+
+1074
+00:44:16,980 --> 00:44:20,700
+budget you can still go for a sensorless
+
+1075
+00:44:18,839 --> 00:44:23,520
+system and with little bit of tweaking
+
+1076
+00:44:20,700 --> 00:44:26,220
+get a smoother acceleration at lower
+
+1077
+00:44:23,520 --> 00:44:27,420
+speed and the way I do it of course you
+
+1078
+00:44:26,220 --> 00:44:30,060
+have three factors that come into
+
+1079
+00:44:27,420 --> 00:44:32,300
+consideration your motor itself
+
+1080
+00:44:30,060 --> 00:44:36,480
+your sensorless ESC
+
+1081
+00:44:32,300 --> 00:44:38,640
+and your radio first of all your motor
+
+1082
+00:44:36,480 --> 00:44:40,859
+and before I start some of you might be
+
+1083
+00:44:38,640 --> 00:44:42,720
+wondering I already have a sensorless
+
+1084
+00:44:40,859 --> 00:44:45,720
+system and it's smooth as butter right
+
+1085
+00:44:42,720 --> 00:44:47,520
+of course and most likely that's the
+
+1086
+00:44:45,720 --> 00:44:49,800
+case because you've never tried a
+
+1087
+00:44:47,520 --> 00:44:51,359
+censored system before imagine the
+
+1088
+00:44:49,800 --> 00:44:54,420
+difference or how can I explain it to
+
+1089
+00:44:51,359 --> 00:44:56,520
+you imagine you have a real car
+
+1090
+00:44:54,420 --> 00:44:58,980
+a driven car not a man not an automatic
+
+1091
+00:44:56,520 --> 00:45:00,599
+car stick driven car but it's missing
+
+1092
+00:44:58,980 --> 00:45:03,660
+the first gear
+
+1093
+00:45:00,599 --> 00:45:06,000
+try to roll that car from zero to
+
+1094
+00:45:03,660 --> 00:45:08,040
+Rolling and from Total desktop try to
+
+1095
+00:45:06,000 --> 00:45:10,319
+roll that car without using the first
+
+1096
+00:45:08,040 --> 00:45:12,599
+gear you will be able to roll it but
+
+1097
+00:45:10,319 --> 00:45:15,060
+initially it will be a small kick or
+
+1098
+00:45:12,599 --> 00:45:18,359
+you'll feel a small jerk before the car
+
+1099
+00:45:15,060 --> 00:45:21,180
+start rolling the same thing goes with
+
+1100
+00:45:18,359 --> 00:45:23,819
+sensorless system
+
+1101
+00:45:21,180 --> 00:45:25,200
+even if you are very sensitive or very
+
+1102
+00:45:23,819 --> 00:45:28,260
+gentle with your trigger finger
+
+1103
+00:45:25,200 --> 00:45:30,780
+initially of course first you will have
+
+1104
+00:45:28,260 --> 00:45:34,079
+slight dead band a range of motion that
+
+1105
+00:45:30,780 --> 00:45:36,960
+nothing happening then once you engage
+
+1106
+00:45:34,079 --> 00:45:39,240
+your motor you will first hear some
+
+1107
+00:45:36,960 --> 00:45:41,460
+clicking sounds and then after that the
+
+1108
+00:45:39,240 --> 00:45:43,740
+car will slightly jump then start
+
+1109
+00:45:41,460 --> 00:45:45,720
+rolling with sensorless with the
+
+1110
+00:45:43,740 --> 00:45:49,319
+sensored system you don't have that from
+
+1111
+00:45:45,720 --> 00:45:51,839
+zero there's no dead band and smoothly
+
+1112
+00:45:49,319 --> 00:45:54,300
+from zero till full
+
+1113
+00:45:51,839 --> 00:45:56,220
+speed the car will go at consistent
+
+1114
+00:45:54,300 --> 00:45:58,260
+acceleration and that's what we are
+
+1115
+00:45:56,220 --> 00:46:00,119
+trying to achieve with sensorless system
+
+1116
+00:45:58,260 --> 00:46:03,180
+so the way to go about this first of
+
+1117
+00:46:00,119 --> 00:46:07,200
+course your your motor itself if you are
+
+1118
+00:46:03,180 --> 00:46:10,380
+a beginner get 3500 KB motor 3500 KB
+
+1119
+00:46:07,200 --> 00:46:13,619
+motor is a high torque low speed motor
+
+1120
+00:46:10,380 --> 00:46:16,560
+remember this is not a razor speed is
+
+1121
+00:46:13,619 --> 00:46:19,680
+not the goal here what we aiming for is
+
+1122
+00:46:16,560 --> 00:46:22,920
+the smoothness of your slide and overall
+
+1123
+00:46:19,680 --> 00:46:25,440
+style and in that case torque is more
+
+1124
+00:46:22,920 --> 00:46:27,900
+important to you than speed so this is
+
+1125
+00:46:25,440 --> 00:46:29,760
+regarding the KV and now if you have any
+
+1126
+00:46:27,900 --> 00:46:31,859
+previous experience with drifting or are
+
+1127
+00:46:29,760 --> 00:46:34,680
+seeing in general it's better to go for
+
+1128
+00:46:31,859 --> 00:46:37,200
+something between 5000 to 7000 KV this
+
+1129
+00:46:34,680 --> 00:46:39,420
+is the sweet spot for me anyway now
+
+1130
+00:46:37,200 --> 00:46:41,700
+after you chose your your KV your
+
+1131
+00:46:39,420 --> 00:46:44,640
+appropriate KV motor for your skill the
+
+1132
+00:46:41,700 --> 00:46:46,680
+second thing is to go for your opinion
+
+1133
+00:46:44,640 --> 00:46:49,380
+which is the blue gear that we have here
+
+1134
+00:46:46,680 --> 00:46:51,839
+now general rule
+
+1135
+00:46:49,380 --> 00:46:54,540
+if you have a small opinion
+
+1136
+00:46:51,839 --> 00:46:58,380
+you will have a faster initial
+
+1137
+00:46:54,540 --> 00:47:00,780
+acceleration but lower top speed and if
+
+1138
+00:46:58,380 --> 00:47:04,880
+you have a bigger pinion gear you will
+
+1139
+00:47:00,780 --> 00:47:08,040
+have initial low acceleration but faster
+
+1140
+00:47:04,880 --> 00:47:09,480
+top speed if that makes any sense and
+
+1141
+00:47:08,040 --> 00:47:12,240
+just to build it in action for example
+
+1142
+00:47:09,480 --> 00:47:14,460
+if you have two cars say the car on the
+
+1143
+00:47:12,240 --> 00:47:17,160
+right have 15 to spin in and the car on
+
+1144
+00:47:14,460 --> 00:47:19,740
+the left have for example 25 pinion if
+
+1145
+00:47:17,160 --> 00:47:22,260
+we start racing initially the car on the
+
+1146
+00:47:19,740 --> 00:47:25,380
+right will take off but with time the
+
+1147
+00:47:22,260 --> 00:47:27,359
+car on the left will catch up and go
+
+1148
+00:47:25,380 --> 00:47:30,180
+beyond the current lift if that makes
+
+1149
+00:47:27,359 --> 00:47:32,160
+any sense so using that concept into
+
+1150
+00:47:30,180 --> 00:47:34,200
+your advantage and especially if you are
+
+1151
+00:47:32,160 --> 00:47:36,000
+running a sensorless system the first
+
+1152
+00:47:34,200 --> 00:47:37,980
+week that you can do to get a smoother
+
+1153
+00:47:36,000 --> 00:47:39,180
+acceleration out of your motor is to
+
+1154
+00:47:37,980 --> 00:47:41,099
+Gear Up
+
+1155
+00:47:39,180 --> 00:47:43,619
+usually most of the cars in the market
+
+1156
+00:47:41,099 --> 00:47:47,040
+they come with a size 14 15 or 16
+
+1157
+00:47:43,619 --> 00:47:49,740
+toothpine what I personally do is I
+
+1158
+00:47:47,040 --> 00:47:53,280
+always go above the standard by five to
+
+1159
+00:47:49,740 --> 00:47:56,640
+six tips meaning for example the xrx the
+
+1160
+00:47:53,280 --> 00:47:59,579
+advice to use 15. my smallest gear I
+
+1161
+00:47:56,640 --> 00:48:03,060
+have is 21 and I have another gear 25 25
+
+1162
+00:47:59,579 --> 00:48:04,500
+is smoother than 21 for me at least and
+
+1163
+00:48:03,060 --> 00:48:06,119
+I know what you're thinking wait a
+
+1164
+00:48:04,500 --> 00:48:08,700
+minute gearing up will cause heating
+
+1165
+00:48:06,119 --> 00:48:11,220
+issues to my to my car and you're
+
+1166
+00:48:08,700 --> 00:48:14,099
+correct if you are running a buggy a
+
+1167
+00:48:11,220 --> 00:48:15,960
+troggy on-road racing car anything that
+
+1168
+00:48:14,099 --> 00:48:18,839
+has rubber tires that maintain constant
+
+1169
+00:48:15,960 --> 00:48:20,579
+grip to the ground and you Gear Up you
+
+1170
+00:48:18,839 --> 00:48:23,339
+most likely will end up either frying
+
+1171
+00:48:20,579 --> 00:48:25,740
+your ESC or demagnetizing your motor but
+
+1172
+00:48:23,339 --> 00:48:28,800
+remember these small things are sliders
+
+1173
+00:48:25,740 --> 00:48:30,660
+they wait very little and they run on
+
+1174
+00:48:28,800 --> 00:48:32,819
+plastic wheels that has minimal traction
+
+1175
+00:48:30,660 --> 00:48:35,339
+and in all my cars I've never
+
+1176
+00:48:32,819 --> 00:48:37,319
+experienced any heating issues for
+
+1177
+00:48:35,339 --> 00:48:38,520
+example I told you this one I run it
+
+1178
+00:48:37,319 --> 00:48:40,980
+I'll run it I will show some videos
+
+1179
+00:48:38,520 --> 00:48:44,040
+running 25 life to see the smoothness of
+
+1180
+00:48:40,980 --> 00:48:47,700
+it of it and with 25 no hitting shoe for
+
+1181
+00:48:44,040 --> 00:48:49,619
+example the DK
+
+1182
+00:48:47,700 --> 00:48:53,099
+comes with this pinion
+
+1183
+00:48:49,619 --> 00:48:55,200
+16th opinion and I run it with 27 tooth
+
+1184
+00:48:53,099 --> 00:48:57,900
+pinion
+
+1185
+00:48:55,200 --> 00:48:59,460
+and there's no heating issue this one is
+
+1186
+00:48:57,900 --> 00:49:02,099
+smooth don't get me wrong it's smooth
+
+1187
+00:48:59,460 --> 00:49:03,900
+it's good this one feels like you're
+
+1188
+00:49:02,099 --> 00:49:06,119
+gliding on Ice that's the difference
+
+1189
+00:49:03,900 --> 00:49:07,859
+between the two after gearing the second
+
+1190
+00:49:06,119 --> 00:49:11,040
+factor that will affect your smoothness
+
+1191
+00:49:07,859 --> 00:49:13,140
+is your ESC itself always try to get a
+
+1192
+00:49:11,040 --> 00:49:15,599
+programmable the ESC something that will
+
+1193
+00:49:13,140 --> 00:49:18,000
+accept a Programming Card that you can
+
+1194
+00:49:15,599 --> 00:49:19,740
+use to adjust your values and the most
+
+1195
+00:49:18,000 --> 00:49:21,660
+important value is something called
+
+1196
+00:49:19,740 --> 00:49:24,359
+Punch If you don't know what punch is
+
+1197
+00:49:21,660 --> 00:49:27,480
+it's the initial current sent from your
+
+1198
+00:49:24,359 --> 00:49:30,780
+ESC to your motor to get the lowest
+
+1199
+00:49:27,480 --> 00:49:33,780
+possible speed of rotation and the way I
+
+1200
+00:49:30,780 --> 00:49:38,700
+do it I always in all my car I use punch
+
+1201
+00:49:33,780 --> 00:49:41,220
+one meaning when I engage my trigger the
+
+1202
+00:49:38,700 --> 00:49:44,640
+initial power sent is just enough to get
+
+1203
+00:49:41,220 --> 00:49:48,060
+my car to roll keep in mind some bad
+
+1204
+00:49:44,640 --> 00:49:50,640
+sensorless sorry specialist motors with
+
+1205
+00:49:48,060 --> 00:49:52,920
+punch one you might feel a little bit of
+
+1206
+00:49:50,640 --> 00:49:55,260
+Jitter or twitch if you have such motor
+
+1207
+00:49:52,920 --> 00:49:57,420
+then increase your value a little bit go
+
+1208
+00:49:55,260 --> 00:49:59,760
+for two or three but always stay at a
+
+1209
+00:49:57,420 --> 00:50:01,260
+lower punch value the last thing that
+
+1210
+00:49:59,760 --> 00:50:02,940
+you can do to get a smoother
+
+1211
+00:50:01,260 --> 00:50:05,280
+acceleration out of your sensorless
+
+1212
+00:50:02,940 --> 00:50:07,800
+system is by adjusting your radio itself
+
+1213
+00:50:05,280 --> 00:50:10,079
+now the throttle or the acceleration
+
+1214
+00:50:07,800 --> 00:50:11,880
+which is the relation between your
+
+1215
+00:50:10,079 --> 00:50:14,400
+trigger finger and your and your motor
+
+1216
+00:50:11,880 --> 00:50:17,160
+is linear meaning for example if I move
+
+1217
+00:50:14,400 --> 00:50:20,040
+my trigger by the value of 1 the motor
+
+1218
+00:50:17,160 --> 00:50:22,079
+will spin at the value funnel speed wise
+
+1219
+00:50:20,040 --> 00:50:24,420
+and if I go for two it will go at speed
+
+1220
+00:50:22,079 --> 00:50:26,880
+of 2 3 speed of 3 and so on so the
+
+1221
+00:50:24,420 --> 00:50:29,040
+relation between them are linear what I
+
+1222
+00:50:26,880 --> 00:50:31,380
+want to do is for example I want to
+
+1223
+00:50:29,040 --> 00:50:34,440
+press the value of 1 but I want my car
+
+1224
+00:50:31,380 --> 00:50:37,079
+to move at the value of 0.5 or 0.6 less
+
+1225
+00:50:34,440 --> 00:50:38,520
+then speed wise this than my trigger
+
+1226
+00:50:37,079 --> 00:50:41,339
+finger and this is something called
+
+1227
+00:50:38,520 --> 00:50:42,660
+negative throttle curve for example
+
+1228
+00:50:41,339 --> 00:50:44,400
+let's take a look here I'm not sure if
+
+1229
+00:50:42,660 --> 00:50:48,260
+this is going to pick up correctly
+
+1230
+00:50:44,400 --> 00:50:48,260
+this is no this is the DRZ
+
+1231
+00:50:49,980 --> 00:50:52,819
+xrx
+
+1232
+00:50:53,940 --> 00:50:56,960
+go to throttle
+
+1233
+00:50:57,720 --> 00:51:00,440
+better lock here
+
+1234
+00:51:01,319 --> 00:51:04,760
+for example go to throttle
+
+1235
+00:51:06,300 --> 00:51:11,160
+see here it says curve for example now
+
+1236
+00:51:09,599 --> 00:51:13,079
+you see the curve the standard curve
+
+1237
+00:51:11,160 --> 00:51:15,119
+looks like this it's the linear I press
+
+1238
+00:51:13,079 --> 00:51:18,359
+one it moves at speed of one and so on
+
+1239
+00:51:15,119 --> 00:51:20,700
+what I have is negative 45 throttle
+
+1240
+00:51:18,359 --> 00:51:22,619
+curve negative meaning when I press the
+
+1241
+00:51:20,700 --> 00:51:25,319
+acceleration initially the call will
+
+1242
+00:51:22,619 --> 00:51:27,480
+move at small at slower speed until it
+
+1243
+00:51:25,319 --> 00:51:29,160
+reached the point of 50 percent halfway
+
+1244
+00:51:27,480 --> 00:51:31,980
+through the throttle after that it will
+
+1245
+00:51:29,160 --> 00:51:34,559
+shoot up another way to look at it is uh
+
+1246
+00:51:31,980 --> 00:51:36,480
+the first 50 of my throttle is my
+
+1247
+00:51:34,559 --> 00:51:38,579
+playing range the range which I drift
+
+1248
+00:51:36,480 --> 00:51:42,059
+most of at most of the time at and the
+
+1249
+00:51:38,579 --> 00:51:44,520
+second half is my turbo boost when I go
+
+1250
+00:51:42,059 --> 00:51:46,680
+to the second half the engine will rev
+
+1251
+00:51:44,520 --> 00:51:49,500
+at higher speed full speed in that case
+
+1252
+00:51:46,680 --> 00:51:53,280
+here I'm if I'm using for example this
+
+1253
+00:51:49,500 --> 00:51:56,059
+is 6000 KB right so the first 50 of my
+
+1254
+00:51:53,280 --> 00:51:58,800
+throttle link the the motor only produce
+
+1255
+00:51:56,059 --> 00:52:01,140
+3000 worth of KV
+
+1256
+00:51:58,800 --> 00:52:03,059
+and the second half if I press full
+
+1257
+00:52:01,140 --> 00:52:05,339
+acceleration it will unlock the full
+
+1258
+00:52:03,059 --> 00:52:07,980
+potential of the motor to full speed and
+
+1259
+00:52:05,339 --> 00:52:09,480
+this way I have a better control over my
+
+1260
+00:52:07,980 --> 00:52:13,079
+lower speed
+
+1261
+00:52:09,480 --> 00:52:16,079
+now after you finish building and tuning
+
+1262
+00:52:13,079 --> 00:52:17,940
+your car we come to the third step which
+
+1263
+00:52:16,079 --> 00:52:21,420
+is the most important thing is your
+
+1264
+00:52:17,940 --> 00:52:23,460
+drifting skills this is the time the
+
+1265
+00:52:21,420 --> 00:52:26,339
+point of time at which your car is
+
+1266
+00:52:23,460 --> 00:52:28,380
+somewhat predictable to you and when it
+
+1267
+00:52:26,339 --> 00:52:29,579
+comes to control and it's up to you to
+
+1268
+00:52:28,380 --> 00:52:31,260
+take it to the next level with your
+
+1269
+00:52:29,579 --> 00:52:34,260
+drifting skills I've seen a lot of
+
+1270
+00:52:31,260 --> 00:52:36,420
+videos of if some of you guys are doing
+
+1271
+00:52:34,260 --> 00:52:39,240
+donuts donuts will get you nowhere
+
+1272
+00:52:36,420 --> 00:52:42,059
+always try to drift around fixed objects
+
+1273
+00:52:39,240 --> 00:52:44,240
+start with a DOT or a cup anything
+
+1274
+00:52:42,059 --> 00:52:45,480
+that's fixed to the ground and try
+
+1275
+00:52:44,240 --> 00:52:48,000
+[Music]
+
+1276
+00:52:45,480 --> 00:52:50,099
+spin around it while maintaining a
+
+1277
+00:52:48,000 --> 00:52:52,020
+constant distance from it this is number
+
+1278
+00:52:50,099 --> 00:52:55,020
+one then go to two dots then three dots
+
+1279
+00:52:52,020 --> 00:52:56,760
+then after that create small a track the
+
+1280
+00:52:55,020 --> 00:52:58,859
+point here is not just to slide the
+
+1281
+00:52:56,760 --> 00:53:00,960
+point here is to be predictable with
+
+1282
+00:52:58,859 --> 00:53:03,240
+your sliding action to be in total
+
+1283
+00:53:00,960 --> 00:53:05,160
+control of your motion and I've seen a
+
+1284
+00:53:03,240 --> 00:53:08,300
+lot of guys also um
+
+1285
+00:53:05,160 --> 00:53:11,160
+paying or paying more attention to the
+
+1286
+00:53:08,300 --> 00:53:13,020
+aesthetic of their car like the body the
+
+1287
+00:53:11,160 --> 00:53:16,380
+wheels and everything
+
+1288
+00:53:13,020 --> 00:53:18,300
+if your car does not ride well and slide
+
+1289
+00:53:16,380 --> 00:53:21,359
+well does it really matter how it looks
+
+1290
+00:53:18,300 --> 00:53:23,880
+this is for my perspective I've been in
+
+1291
+00:53:21,359 --> 00:53:27,359
+this hobby for almost now a year and the
+
+1292
+00:53:23,880 --> 00:53:30,480
+most expensive body I have is this one
+
+1293
+00:53:27,359 --> 00:53:32,339
+forty dollars all other bodies I have
+
+1294
+00:53:30,480 --> 00:53:35,579
+either twenty twenty five dollars
+
+1295
+00:53:32,339 --> 00:53:37,740
+because most of my time I spend it on
+
+1296
+00:53:35,579 --> 00:53:40,260
+tuning and building and getting my my
+
+1297
+00:53:37,740 --> 00:53:43,619
+drifting skills and my 20 skills to be
+
+1298
+00:53:40,260 --> 00:53:45,720
+right so let's uh put what what all what
+
+1299
+00:53:43,619 --> 00:53:48,180
+we talked about into practice I chose to
+
+1300
+00:53:45,720 --> 00:53:50,160
+go for the xrx for the demonstration
+
+1301
+00:53:48,180 --> 00:53:52,260
+because I noticed most of you guys are
+
+1302
+00:53:50,160 --> 00:53:53,760
+picking this chassis up these days and
+
+1303
+00:53:52,260 --> 00:53:56,760
+understandably why it's one of my
+
+1304
+00:53:53,760 --> 00:53:59,640
+favorites so what I have here is the
+
+1305
+00:53:56,760 --> 00:54:02,819
+cheapest form of the xrx the full
+
+1306
+00:53:59,640 --> 00:54:04,920
+plastic form except for three parts uh I
+
+1307
+00:54:02,819 --> 00:54:07,859
+have the adjustable wheelbase
+
+1308
+00:54:04,920 --> 00:54:10,260
+plates and I have the alloy shop towers
+
+1309
+00:54:07,859 --> 00:54:11,960
+and I have the rear toe block these are
+
+1310
+00:54:10,260 --> 00:54:14,460
+the three things that I purchased extra
+
+1311
+00:54:11,960 --> 00:54:17,760
+other than that it's the cheapest one
+
+1312
+00:54:14,460 --> 00:54:20,040
+the base the base model so regarding the
+
+1313
+00:54:17,760 --> 00:54:23,579
+adjustable wheelbase I remove I run this
+
+1314
+00:54:20,040 --> 00:54:25,920
+usually at 102 millimeter with my Die
+
+1315
+00:54:23,579 --> 00:54:28,559
+Cast body but for this demonstration I
+
+1316
+00:54:25,920 --> 00:54:30,240
+shrunked it down back to 94 millimeters
+
+1317
+00:54:28,559 --> 00:54:32,460
+so if you if you don't have adjustable
+
+1318
+00:54:30,240 --> 00:54:34,800
+wheelbase this is the dimension that
+
+1319
+00:54:32,460 --> 00:54:37,980
+you're gonna get the same with our
+
+1320
+00:54:34,800 --> 00:54:40,380
+wheelbase of this same shape of this the
+
+1321
+00:54:37,980 --> 00:54:43,380
+second thing is the shock towers and
+
+1322
+00:54:40,380 --> 00:54:46,619
+this is um this is an Integrity upgrade
+
+1323
+00:54:43,380 --> 00:54:48,720
+rather than performance upgrade the only
+
+1324
+00:54:46,619 --> 00:54:51,240
+thing that I hate about the xrx is that
+
+1325
+00:54:48,720 --> 00:54:53,400
+shop Tower which is even though it's
+
+1326
+00:54:51,240 --> 00:54:55,859
+carbon fiber it's very thin when you
+
+1327
+00:54:53,400 --> 00:54:58,020
+scroll in your rear mounting screws
+
+1328
+00:54:55,859 --> 00:55:00,900
+you'll immediately notice that the tower
+
+1329
+00:54:58,020 --> 00:55:03,000
+itself will bow in and with time it can
+
+1330
+00:55:00,900 --> 00:55:04,619
+crack it did not crack on me but I did
+
+1331
+00:55:03,000 --> 00:55:07,380
+not wait for it I immediately went it
+
+1332
+00:55:04,619 --> 00:55:09,599
+for the alloy shock Towers the other
+
+1333
+00:55:07,380 --> 00:55:12,599
+thing is when you install the alloy
+
+1334
+00:55:09,599 --> 00:55:15,480
+shock Towers it's considerably thicker
+
+1335
+00:55:12,599 --> 00:55:16,680
+than the standard so what happened is if
+
+1336
+00:55:15,480 --> 00:55:19,020
+you run your
+
+1337
+00:55:16,680 --> 00:55:21,540
+shocks in the correct position meaning
+
+1338
+00:55:19,020 --> 00:55:23,760
+the the tension ring up top it will
+
+1339
+00:55:21,540 --> 00:55:25,980
+catch against the shock itself and it
+
+1340
+00:55:23,760 --> 00:55:27,780
+will Jam the smooth it will Jam the the
+
+1341
+00:55:25,980 --> 00:55:30,300
+arm itself it will not the shock will
+
+1342
+00:55:27,780 --> 00:55:32,940
+not function smoothly so if you have
+
+1343
+00:55:30,300 --> 00:55:35,280
+this you have to reverse
+
+1344
+00:55:32,940 --> 00:55:38,220
+your shocks keep the Rings the tension
+
+1345
+00:55:35,280 --> 00:55:40,200
+rings at the bottom rear and front so
+
+1346
+00:55:38,220 --> 00:55:42,720
+this is the second thing I did the the
+
+1347
+00:55:40,200 --> 00:55:45,300
+other thing I did is usually I run this
+
+1348
+00:55:42,720 --> 00:55:47,760
+car wide wider than this I undo the the
+
+1349
+00:55:45,300 --> 00:55:51,119
+links the upper and lower links to get a
+
+1350
+00:55:47,760 --> 00:55:53,339
+wider width track width but I went for
+
+1351
+00:55:51,119 --> 00:55:56,640
+stock this is the stock as the manual
+
+1352
+00:55:53,339 --> 00:55:59,220
+says and I run curved steering links
+
+1353
+00:55:56,640 --> 00:56:00,599
+again I went with stock steering legs
+
+1354
+00:55:59,220 --> 00:56:03,119
+straight steering mix just to
+
+1355
+00:56:00,599 --> 00:56:05,339
+demonstrate what your car what would
+
+1356
+00:56:03,119 --> 00:56:06,780
+your car your car will perform as
+
+1357
+00:56:05,339 --> 00:56:08,640
+compared to this if you if you follow
+
+1358
+00:56:06,780 --> 00:56:12,540
+the same instructions uh the other
+
+1359
+00:56:08,640 --> 00:56:15,180
+things other than that nothing special
+
+1360
+00:56:12,540 --> 00:56:18,780
+the top block I have is 2.5
+
+1361
+00:56:15,180 --> 00:56:21,839
+yes the shock itself there is shocks
+
+1362
+00:56:18,780 --> 00:56:23,940
+for the standard xrx the shocks that
+
+1363
+00:56:21,839 --> 00:56:26,280
+come with it the rear one is very stiff
+
+1364
+00:56:23,940 --> 00:56:29,940
+for me so I went for this shocks which I
+
+1365
+00:56:26,280 --> 00:56:32,640
+stole from one of my son's toy cars and
+
+1366
+00:56:29,940 --> 00:56:33,839
+it's a little bit it's not soft it's
+
+1367
+00:56:32,640 --> 00:56:36,300
+medium
+
+1368
+00:56:33,839 --> 00:56:39,059
+if you want to to buy it I think it's
+
+1369
+00:56:36,300 --> 00:56:40,800
+it's very comparable to the medium shots
+
+1370
+00:56:39,059 --> 00:56:42,240
+that you get with the
+
+1371
+00:56:40,800 --> 00:56:45,540
+with the DK
+
+1372
+00:56:42,240 --> 00:56:49,559
+electronic wise I'm running the the
+
+1373
+00:56:45,540 --> 00:56:53,280
+standard a11 CLS servo
+
+1374
+00:56:49,559 --> 00:56:55,559
+I'm running the V2 gyro
+
+1375
+00:56:53,280 --> 00:56:59,460
+surpass hobby which is very cheap 12 or
+
+1376
+00:56:55,559 --> 00:57:01,680
+14 dollars I'm not sure 6000 KV and I
+
+1377
+00:56:59,460 --> 00:57:04,500
+geared up more this time this is 26
+
+1378
+00:57:01,680 --> 00:57:09,119
+tooth Pena I have the standard atomic
+
+1379
+00:57:04,500 --> 00:57:11,400
+sensorless ESC uh adjusted the punch
+
+1380
+00:57:09,119 --> 00:57:14,960
+value is adjusted to one as we talked
+
+1381
+00:57:11,400 --> 00:57:14,960
+about and other than that
+
+1382
+00:57:15,720 --> 00:57:20,359
+oh right height
+
+1383
+00:57:17,460 --> 00:57:20,359
+my right height
+
+1384
+00:57:20,460 --> 00:57:23,819
+back
+
+1385
+00:57:22,140 --> 00:57:27,119
+two millimeter
+
+1386
+00:57:23,819 --> 00:57:29,640
+front 2.5 millimeter so my chassis is
+
+1387
+00:57:27,119 --> 00:57:33,740
+leaning backwards I'm not sure if I can
+
+1388
+00:57:29,640 --> 00:57:33,740
+if you can grab this camera
+
+1389
+00:57:34,740 --> 00:57:39,240
+and I'm going for a high most romantic
+
+1390
+00:57:37,200 --> 00:57:42,140
+position if you are a beginner don't
+
+1391
+00:57:39,240 --> 00:57:44,400
+install your Mount your motor down below
+
+1392
+00:57:42,140 --> 00:57:47,579
+the reason for that because I want to
+
+1393
+00:57:44,400 --> 00:57:51,000
+test this combination of
+
+1394
+00:57:47,579 --> 00:57:53,880
+throttle curve and uh gearing up and
+
+1395
+00:57:51,000 --> 00:57:55,920
+punch zero Punch or low punch to see if
+
+1396
+00:57:53,880 --> 00:57:58,079
+I can control the car like this the
+
+1397
+00:57:55,920 --> 00:58:00,540
+higher motor mount position requires
+
+1398
+00:57:58,079 --> 00:58:03,000
+more throttle control it's more suitable
+
+1399
+00:58:00,540 --> 00:58:05,220
+if you have a sensored system and it's
+
+1400
+00:58:03,000 --> 00:58:07,440
+more suitable if you have any previous
+
+1401
+00:58:05,220 --> 00:58:09,599
+experience when it comes to Drifting as
+
+1402
+00:58:07,440 --> 00:58:13,500
+general regarding wheel alignment I'm
+
+1403
+00:58:09,599 --> 00:58:15,119
+running rear zero camber
+
+1404
+00:58:13,500 --> 00:58:18,119
+front
+
+1405
+00:58:15,119 --> 00:58:20,280
+three degrees camber I'm running almost
+
+1406
+00:58:18,119 --> 00:58:21,960
+parallel steering you can see it here
+
+1407
+00:58:20,280 --> 00:58:24,359
+this it looks like a towel it's not too
+
+1408
+00:58:21,960 --> 00:58:27,420
+hot because when you squat the car
+
+1409
+00:58:24,359 --> 00:58:30,839
+it will almost end up
+
+1410
+00:58:27,420 --> 00:58:34,440
+a sparrow steering or pair Ackerman and
+
+1411
+00:58:30,839 --> 00:58:36,540
+other than that my Caster is Max all my
+
+1412
+00:58:34,440 --> 00:58:39,240
+spacers are up front here if you can see
+
+1413
+00:58:36,540 --> 00:58:42,859
+so the arms are pushed all the way back
+
+1414
+00:58:39,240 --> 00:58:42,859
+and we'll see how that performs
+
+1415
+00:58:43,790 --> 00:58:51,650
+[Music]
+
+1416
+00:58:52,460 --> 00:58:55,460
+thank you
+
+1417
+00:58:55,960 --> 00:59:11,620
+[Music]
+
+1418
+00:59:10,520 --> 00:59:30,610
+thank you
+
+1419
+00:59:11,620 --> 00:59:30,610
+[Music]
+
+1420
+00:59:31,680 --> 01:00:16,220
+foreign
+
+1421
+00:59:34,630 --> 01:00:19,210
+[Music]
+
+1422
+01:00:16,220 --> 01:00:33,739
+thank you
+
+1423
+01:00:19,210 --> 01:00:33,739
+[Music]
+
+1424
+01:00:37,680 --> 01:00:42,900
+there you go guys that's almost almost
+
+1425
+01:00:40,380 --> 01:00:45,540
+all I know regarding this Hobby I
+
+1426
+01:00:42,900 --> 01:00:47,940
+remember when I started up I used to bug
+
+1427
+01:00:45,540 --> 01:00:49,920
+Beaver all the time with questions
+
+1428
+01:00:47,940 --> 01:00:52,020
+all the time and he was kind enough to
+
+1429
+01:00:49,920 --> 01:00:54,240
+answer all of them and I'm trying to do
+
+1430
+01:00:52,020 --> 01:00:57,660
+the same here share whatever I know with
+
+1431
+01:00:54,240 --> 01:00:59,940
+you if you are a beginner just ask man
+
+1432
+01:00:57,660 --> 01:01:02,940
+there's no shame in that there are no
+
+1433
+01:00:59,940 --> 01:01:05,220
+such thing as stupid questions asked and
+
+1434
+01:01:02,940 --> 01:01:08,000
+we will try as a group we will try to
+
+1435
+01:01:05,220 --> 01:01:11,099
+answer you to our best ability
+
+1436
+01:01:08,000 --> 01:01:13,920
+sometimes I I come across
+
+1437
+01:01:11,099 --> 01:01:16,500
+a threat that I don't react to the
+
+1438
+01:01:13,920 --> 01:01:17,700
+reason for that mostly is either um I
+
+1439
+01:01:16,500 --> 01:01:20,339
+don't know the answer to that question
+
+1440
+01:01:17,700 --> 01:01:23,099
+or I don't own that chassis so I don't
+
+1441
+01:01:20,339 --> 01:01:25,799
+want to speak about something that I've
+
+1442
+01:01:23,099 --> 01:01:28,079
+never tried or or drifted I don't want
+
+1443
+01:01:25,799 --> 01:01:29,880
+to spread any false information but if
+
+1444
+01:01:28,079 --> 01:01:32,700
+if the question regarding something I
+
+1445
+01:01:29,880 --> 01:01:36,000
+own or something I tried I I usually
+
+1446
+01:01:32,700 --> 01:01:38,760
+answer it immediately if you are an old
+
+1447
+01:01:36,000 --> 01:01:41,119
+Drifter regarding all Drifters guys stop
+
+1448
+01:01:38,760 --> 01:01:43,380
+being [ __ ] toward newcomers
+
+1449
+01:01:41,119 --> 01:01:45,020
+share the information guys share the
+
+1450
+01:01:43,380 --> 01:01:46,680
+share the love
+
+1451
+01:01:45,020 --> 01:01:48,599
+this
+
+1452
+01:01:46,680 --> 01:01:50,460
+is not something that you can prove your
+
+1453
+01:01:48,599 --> 01:01:52,640
+manhood over
+
+1454
+01:01:50,460 --> 01:01:56,280
+stop killing the hobby help one another
+
+1455
+01:01:52,640 --> 01:01:58,799
+and I hope this video helps you with
+
+1456
+01:01:56,280 --> 01:02:02,000
+your build in some shape or form and
+
+1457
+01:01:58,799 --> 01:02:02,000
+with that being said Peace
+
